@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.mp4
+*.jpg
+*.jpeg
+*.png
+.env
+venv/
+.faiss_index*
+.DS_Store

@@ -1,0 +1,2239 @@
+1. Viral Fever (General / Common Viral Infection)
+Cause: Viruses (e.g., influenza, rhinovirus, adenovirus).
+Symptoms: Fever, body aches, fatigue, headache, sore throat, cough.
+Treatment/Medication:
+  - Primary: Paracetamol (acetaminophen) 500–650 mg every 6 hours (max 4g/day).
+  - Supportive: Oral Rehydration Solution (ORS), electrolyte fluids, multivitamins, Zinc 20 mg daily.
+  - Avoid: Aspirin/NSAIDs (e.g., ibuprofen) if dengue suspected.
+Cure: Self-limiting (resolves in 3–7 days).
+Precautions:
+  - Stay hydrated with water, ORS, fruit juices.
+  - Light diet (soups, rice, fruits).
+  - Avoid contact with others to prevent spread.
+When to see a doctor: Fever >3 days, rash, bleeding, confusion, severe dehydration.
+
+2. Malaria
+Cause: Plasmodium parasites (P. falciparum, P. vivax, etc.) via Anopheles mosquitoes.
+Symptoms: High fever, chills, sweating, headache, muscle pain, nausea.
+Treatment/Medication:
+  - Uncomplicated: Artemether-Lumefantrine 80/480 mg twice daily for 3 days or Artesunate-Amodiaquine for 3 days.
+  - P. vivax/P. ovale: Chloroquine 25 mg/kg over 3 days + Primaquine 15 mg daily for 14 days.
+  - Severe: IV Artesunate 2.4 mg/kg at 0, 12, 24 hours, then daily, followed by ACT.
+  - Supportive: Paracetamol for fever, hydration.
+Cure: Curable with timely treatment; relapse possible in P. vivax/ovale.
+Precautions:
+  - Use insecticide-treated bed nets.
+  - Apply DEET-based repellents.
+  - Chemoprophylaxis (Mefloquine, Doxycycline) in endemic areas.
+  - Eliminate stagnant water to reduce mosquito breeding.
+
+3. Dengue Fever
+Cause: Dengue virus (serotypes 1–4) via Aedes mosquitoes.
+Symptoms: High fever, severe headache, joint/muscle pain, rash, mild bleeding (e.g., nosebleeds).
+Treatment/Medication:
+  - Symptomatic: Paracetamol 500 mg every 6 hours for fever/pain.
+  - Avoid: NSAIDs (ibuprofen, aspirin) due to bleeding risk.
+  - Fluids: ORS, coconut water, soups for hydration.
+  - Monitor: Platelet count, bleeding gums, abdominal pain.
+Cure: Self-limiting; severe dengue requires hospitalization.
+Precautions:
+  - Use mosquito repellents, long-sleeved clothing.
+  - Eliminate standing water to prevent mosquito breeding.
+  - Seek care for warning signs (persistent vomiting, severe abdominal pain, bleeding).
+
+4. Typhoid Fever
+Cause: Salmonella typhi bacteria from contaminated food/water.
+Symptoms: Prolonged fever, weakness, abdominal pain, constipation/diarrhea, loss of appetite.
+Treatment/Medication:
+  - Antibiotics: Azithromycin 500 mg once daily for 7 days or Cefixime 200 mg twice daily for 10 days.
+  - Severe cases: Ceftriaxone 2 g IV daily for 10–14 days.
+  - Supportive: Hydration, light meals, paracetamol for fever.
+Cure: Curable with antibiotics; relapse possible if untreated.
+Precautions:
+  - Typhoid vaccine (oral/injectable) before travel to endemic areas.
+  - Drink boiled/bottled water.
+  - Practice hand hygiene and food safety.
+
+5. COVID-19 (Mild/Moderate)
+Cause: SARS-CoV-2 virus.
+Symptoms: Fever, cough, fatigue, loss of taste/smell, shortness of breath, sore throat.
+Treatment/Medication:
+  - Mild: Paracetamol 500 mg for fever, Cetirizine 10 mg daily for cold symptoms, Vitamin C 1000 mg, Zinc 20 mg daily.
+  - Moderate/severe: Oxygen therapy, corticosteroids (Dexamethasone), antivirals (Paxlovid) under supervision.
+Cure: Most recover in 1–2 weeks; severe cases may take longer.
+Precautions:
+  - Vaccination (primary + boosters).
+  - Wear masks in crowded areas.
+  - Practice hand hygiene, social distancing.
+
+6. Common Cold / Flu
+Cause: Rhinoviruses, coronaviruses, influenza viruses (A, B, C).
+Symptoms: Runny nose, sneezing, sore throat, cough, mild fever.
+Treatment/Medication:
+  - Symptomatic: Paracetamol for fever/pain, Cetirizine or Loratadine for sneezing/runny nose, Ambroxol + Guaifenesin cough syrup twice daily.
+  - Supportive: Steam inhalation, saline nasal drops, hydration.
+  - Avoid: Antibiotics unless bacterial infection confirmed.
+Cure: Self-limiting (7–10 days).
+Precautions:
+  - Wash hands frequently.
+  - Avoid touching face or sharing utensils.
+  - Boost immunity with vitamin C-rich foods.
+
+7. Diarrhea / Gastroenteritis
+Cause: Viruses (norovirus), bacteria (E. coli, Salmonella), or parasites.
+Symptoms: Loose stools, abdominal cramps, nausea, vomiting, dehydration.
+Treatment/Medication:
+  - Rehydration: ORS (1 liter per 3–4 stools in adults).
+  - Zinc: 10–20 mg/day for 10–14 days (children).
+  - Antibiotics (bacterial): Ciprofloxacin 500 mg twice daily for 3 days or Azithromycin (prescribed).
+  - Avoid: Antidiarrheal drugs unless severe.
+Cure: Resolves with rehydration; antibiotics for bacterial causes.
+Precautions:
+  - Drink safe water, eat hygienically prepared food.
+  - Follow BRAT diet (bananas, rice, applesauce, toast).
+  - Avoid antidiarrheal drugs unless prescribed.
+
+8. Acidity / GERD
+Cause: Stomach acid reflux into esophagus.
+Symptoms: Heartburn, regurgitation, chest pain, difficulty swallowing.
+Treatment/Medication:
+  - Antacids: Aluminum hydroxide, magnesium hydroxide (Digene syrup as needed).
+  - PPIs: Pantoprazole 40 mg once daily before breakfast.
+  - H2 blockers: Ranitidine, Famotidine.
+Cure: Manageable; symptoms resolve with treatment.
+Precautions:
+  - Avoid spicy, fatty, acidic foods, late-night meals, smoking, alcohol.
+  - Eat smaller meals, avoid lying down after eating.
+  - Maintain healthy weight.
+
+9. Urinary Tract Infection (UTI)
+Cause: Bacteria (E. coli) entering the urinary tract.
+Symptoms: Burning urination, frequent urination, cloudy urine, pelvic pain.
+Treatment/Medication:
+  - Antibiotics: Nitrofurantoin 100 mg twice daily for 5 days or Fosfomycin 3 g single dose.
+  - Pain relief: Phenazopyridine 200 mg thrice daily for 2 days (short-term).
+  - Supportive: Drink >2 liters water daily.
+Cure: Curable with antibiotics; recurrent cases need evaluation.
+Precautions:
+  - Maintain hygiene (wipe front to back).
+  - Urinate after sexual activity.
+  - Avoid holding urine, tight clothing.
+
+10. Diabetes Mellitus (Type 2)
+Cause: Insulin resistance due to genetics, obesity, sedentary lifestyle.
+Symptoms: Increased thirst, frequent urination, fatigue, blurred vision.
+Treatment/Medication:
+  - First-line: Metformin 500–1000 mg twice daily.
+  - Add-on: Glimepiride, Dapagliflozin, Sitagliptin.
+  - Severe: Insulin therapy (e.g., 10 units basal + correction doses).
+  - Lifestyle: Low-carb diet, exercise, glucose monitoring.
+Cure: Manageable; remission possible with lifestyle changes.
+Precautions:
+  - Monitor blood glucose regularly.
+  - Avoid sugary foods/drinks.
+  - Regular check-ups for complications (retinopathy, neuropathy).
+
+11. Hypertension (High Blood Pressure)
+Cause: Genetics, stress, poor diet, inactivity, underlying conditions.
+Symptoms: Often asymptomatic; may include headaches, dizziness, nosebleeds.
+Treatment/Medication:
+  - First-line: Amlodipine 5 mg daily, Losartan 50 mg daily, Hydrochlorothiazide 12.5–25 mg daily.
+  - Lifestyle: Low-salt diet, exercise, quit smoking.
+  - Goal: BP <130/80 mmHg.
+Cure: Manageable but not curable.
+Precautions:
+  - Monitor BP regularly.
+  - Avoid smoking, excessive alcohol, processed foods.
+  - Maintain healthy weight.
+
+12. Asthma
+Cause: Airway inflammation from allergens, exercise, infections.
+Symptoms: Wheezing, shortness of breath, chest tightness, cough.
+Treatment/Medication:
+  - Reliever: Salbutamol inhaler 2 puffs as needed.
+  - Controller: Budesonide inhaler twice daily.
+  - Severe attack: Nebulization with salbutamol + ipratropium, oral steroids (prescribed).
+Cure: Manageable but not curable.
+Precautions:
+  - Avoid triggers (dust, pollen, smoke, strong perfumes).
+  - Use controller inhaler regularly.
+  - Carry reliever inhaler.
+
+13. Anemia
+Cause: Iron, vitamin B12, folate deficiency; chronic diseases; blood loss.
+Symptoms: Fatigue, pale skin, shortness of breath, dizziness.
+Treatment/Medication:
+  - Iron deficiency: Ferrous sulfate 325 mg 1–2 times daily, Folic acid 5 mg daily, Vitamin C to aid absorption.
+  - B12 deficiency: Cyanocobalamin 1000 mcg IM weekly × 4, then monthly or 1000 mcg oral daily.
+Cure: Curable if deficiency-related; chronic causes need management.
+Precautions:
+  - Eat iron-rich foods (spinach, red meat, lentils).
+  - Avoid tea/coffee with iron supplements.
+  - Regular blood tests.
+
+14. Migraine
+Cause: Neurological condition triggered by stress, hormones, foods.
+Symptoms: Throbbing headache, nausea, sensitivity to light/sound.
+Treatment/Medication:
+  - Acute: Paracetamol 500 mg or Sumatriptan 50 mg.
+  - Preventive: Propranolol 40 mg daily, Amitriptyline 10 mg at night.
+Cure: Manageable but not curable.
+Precautions:
+  - Avoid triggers (caffeine, irregular sleep, dehydration).
+  - Maintain regular sleep, hydration.
+  - Use sunglasses/earplugs for sensitivity.
+
+15. Tuberculosis (TB)
+Cause: Mycobacterium tuberculosis, primarily lungs.
+Symptoms: Persistent cough, weight loss, night sweats, fever.
+Treatment/Medication:
+  - Regimen (6 months): Intensive (2 months) Isoniazid + Rifampicin + Pyrazinamide + Ethambutol; Continuation (4 months) Isoniazid + Rifampicin.
+  - Supportive: High-protein diet, monitor liver function.
+Cure: Curable with adherence to DOTS program.
+Precautions:
+  - Follow DOTS protocol.
+  - Avoid close contact until non-infectious.
+  - Ensure good ventilation.
+
+16. Allergies / Rash / Urticaria
+Cause: Allergens (pollen, food), irritants, infections.
+Symptoms: Itching, redness, rash, swelling.
+Treatment/Medication:
+  - Antihistamines: Cetirizine 10 mg daily, Levocetirizine 5 mg daily.
+  - Topical: Calamine lotion, Hydrocortisone cream (1%).
+  - Severe: Prednisolone 20 mg daily (doctor supervision).
+Cure: Resolves with treatment; chronic allergies need management.
+Precautions:
+  - Avoid known allergens.
+  - Use hypoallergenic products.
+  - Keep skin moisturized.
+
+17. Back Pain / Muscle Pain
+Cause: Muscle strain, poor posture, injury.
+Symptoms: Localized pain, stiffness, reduced mobility.
+Treatment/Medication:
+  - Pain relief: Paracetamol 650 mg or Etoricoxib 60 mg daily.
+  - Muscle relaxant: Thiocolchicoside 4 mg twice daily.
+  - Topical: Diclofenac gel massage.
+  - Supportive: Hot fomentation, posture correction, rest.
+Cure: Resolves with treatment; chronic cases need management.
+Precautions:
+  - Maintain proper posture.
+  - Avoid heavy lifting.
+  - Regular stretching/exercise.
+
+18. Skin Infection / Fungal (e.g., Ringworm, Athlete’s Foot)
+Cause: Fungi (dermatophytes).
+Symptoms: Itchy, red, scaly patches; nail discoloration.
+Treatment/Medication:
+  - Topical: Clotrimazole cream twice daily, Terbinafine.
+  - Oral (severe): Ketoconazole 200 mg daily for 7 days, Fluconazole, Itraconazole.
+Cure: Curable with treatment.
+Precautions:
+  - Keep skin dry and clean.
+  - Avoid sharing towels, shoes.
+  - Wear breathable footwear.
+
+19. Sinusitis
+Cause: Viral, bacterial, fungal infection; allergies.
+Symptoms: Nasal congestion, facial pain, headache, thick discharge.
+Treatment/Medication:
+  - Viral: Steam inhalation, saline sprays, Oxymetazoline drops (≤5 days).
+  - Bacterial: Amoxicillin-Clavulanate 625 mg thrice daily for 7 days.
+  - Allergic: Antihistamines, nasal corticosteroids (Fluticasone).
+  - Pain relief: Paracetamol.
+Cure: Curable (acute); chronic needs management.
+Precautions:
+  - Avoid allergens/irritants (smoke).
+  - Use humidifier.
+  - Stay hydrated.
+
+20. Stomach Ulcer / Gastritis
+Cause: H. pylori infection, NSAID use, stress.
+Symptoms: Burning stomach pain, bloating, nausea, vomiting.
+Treatment/Medication:
+  - H. pylori: Triple therapy (Amoxicillin, Clarithromycin, Pantoprazole 40 mg).
+  - Acid reduction: Pantoprazole 40 mg daily, Sucralfate syrup 10 ml before meals.
+Cure: Curable with treatment.
+Precautions:
+  - Avoid NSAIDs, spicy foods, alcohol.
+  - Manage stress.
+  - Test for H. pylori if recurrent.
+
+21. Ear Infection (Otitis Media)
+Cause: Bacterial or viral infection.
+Symptoms: Ear pain, fever, hearing loss, discharge.
+Treatment/Medication:
+  - Antibiotics: Amoxicillin-Clavulanate 625 mg thrice daily for 7 days.
+  - Pain relief: Paracetamol.
+  - Ear drops: Ciprofloxacin ear drops twice daily.
+Cure: Curable with treatment.
+Precautions:
+  - Avoid water entry in ears.
+  - Treat respiratory infections promptly.
+  - Seek care for persistent symptoms.
+
+22. Conjunctivitis (Eye Infection)
+Cause: Viral, bacterial, or allergic.
+Symptoms: Redness, itching, tearing, discharge.
+Treatment/Medication:
+  - Viral: Artificial tears, cold compress.
+  - Bacterial: Moxifloxacin eye drops (1 drop 4 times/day).
+  - Allergic: Antihistamine eye drops (Olopatadine).
+Cure: Curable (bacterial/allergic); viral resolves in 1–2 weeks.
+Precautions:
+  - Avoid touching/rubbing eyes.
+  - Wash hands frequently.
+  - Avoid sharing towels/pillows.
+
+23. Depression / Anxiety (Mild)
+Cause: Chemical imbalances, stress, genetics, trauma.
+Symptoms: Persistent sadness, loss of interest, excessive worry, restlessness, palpitations.
+Treatment/Medication:
+  - Antidepressants: SSRIs (Sertraline 50 mg, Escitalopram 10 mg daily).
+  - Short-term: Benzodiazepines (Clonazepam 0.25 mg as needed).
+  - Therapy: Cognitive behavioral therapy (CBT), counseling.
+Cure: Manageable; remission possible with treatment.
+Precautions:
+  - Seek mental health support.
+  - Practice stress management (meditation, yoga).
+  - Avoid alcohol, caffeine, drugs.
+
+24. Arthritis / Joint Pain (Osteoarthritis)
+Cause: Joint cartilage wear; aging or injury.
+Symptoms: Joint pain, stiffness, swelling, reduced mobility.
+Treatment/Medication:
+  - Pain relief: Aceclofenac 100 mg twice daily, Paracetamol.
+  - Supplements: Glucosamine + Chondroitin.
+  - Severe: Corticosteroid injections (doctor).
+  - Support: Physiotherapy, weight control.
+Cure: Manageable but not curable.
+Precautions:
+  - Maintain healthy weight.
+  - Low-impact exercise (swimming).
+  - Avoid repetitive joint strain.
+
+25. Epilepsy
+Cause: Abnormal brain electrical activity.
+Symptoms: Seizures, loss of consciousness, convulsions.
+Treatment/Medication:
+  - Anticonvulsants: Sodium Valproate 500 mg twice daily, Levetiracetam 500 mg twice daily.
+Cure: Manageable with medication.
+Precautions:
+  - Avoid alcohol, sleep deprivation.
+  - Never stop medication suddenly.
+  - Regular neurologist follow-up.
+
+26. Hypothyroidism
+Cause: Underactive thyroid gland (autoimmune, iodine deficiency).
+Symptoms: Fatigue, weight gain, cold intolerance, dry skin, hair loss.
+Treatment/Medication:
+  - Hormone replacement: Levothyroxine 25–125 mcg daily (empty stomach).
+Cure: Manageable with lifelong medication.
+Precautions:
+  - Monitor TSH every 3 months.
+  - Take medication on empty stomach.
+  - Avoid coffee/iron supplements with dose.
+
+27. Hyperthyroidism
+Cause: Overactive thyroid (Graves’ disease, nodules).
+Symptoms: Weight loss, palpitations, sweating, anxiety, heat intolerance.
+Treatment/Medication:
+  - Antithyroid: Carbimazole 5–10 mg thrice daily.
+  - Beta-blocker: Propranolol 40 mg for palpitations.
+  - Others: Radioactive iodine, surgery.
+Cure: Manageable; curable with surgery/radioactive iodine.
+Precautions:
+  - Monitor thyroid function every 4–6 weeks.
+  - Avoid iodine excess.
+  - Manage stress.
+
+28. Piles (Hemorrhoids)
+Cause: Straining, constipation, prolonged sitting.
+Symptoms: Pain, itching, bleeding during bowel movements.
+Treatment/Medication:
+  - Venotonics: Diosmin + Hesperidin tablets.
+  - Stool softener: Lactulose syrup.
+  - Topical: Hydrocortisone cream.
+  - Supportive: High-fiber diet, sitz baths, hydration.
+Cure: Manageable; severe cases may need surgery.
+Precautions:
+  - Eat high-fiber foods (fruits, vegetables).
+  - Avoid straining during bowel movements.
+  - Stay hydrated.
+
+29. Obesity
+Cause: Excess calorie intake, sedentary lifestyle, genetics.
+Symptoms: Excessive body fat, BMI >30.
+Treatment/Medication:
+  - Lifestyle: Calorie control, regular exercise.
+  - Medications: Orlistat 120 mg thrice daily with meals (BMI >30).
+  - Severe: Bariatric surgery.
+Cure: Manageable with lifestyle changes.
+Precautions:
+  - Avoid processed, high-calorie foods.
+  - Exercise 150 min/week.
+  - Monitor weight/BMI.
+
+30. Acne
+Cause: Excess oil, clogged pores, bacteria, hormones.
+Symptoms: Pimples, blackheads, cysts, redness.
+Treatment/Medication:
+  - Mild: Benzoyl peroxide gel, Clindamycin gel.
+  - Moderate: Doxycycline 100 mg daily (6–8 weeks).
+  - Severe: Isotretinoin 20 mg daily (dermatologist).
+Cure: Manageable; curable with treatment.
+Precautions:
+  - Avoid oily cosmetics.
+  - Wash face twice daily.
+  - Avoid squeezing pimples.
+
+31. Hepatitis (A, B, C)
+Cause: Viral infection (HAV, HBV, HCV); A from contaminated food/water, B/C from blood/sexual contact.
+Symptoms: Jaundice, fatigue, abdominal pain, nausea, dark urine.
+Treatment/Medication:
+  - Hepatitis A: Supportive care (rest, hydration); self-limiting.
+  - Hepatitis B: Antivirals (Tenofovir, Entecavir) for chronic cases.
+  - Hepatitis C: Direct-acting antivirals (Sofosbuvir, Ledipasvir).
+Cure: HAV self-limiting; HBV/HCV curable with treatment.
+Precautions:
+  - Vaccines for HAV, HBV.
+  - Avoid sharing needles, practice safe sex.
+  - Ensure safe food/water.
+
+32. Pneumonia
+Cause: Bacteria (Streptococcus pneumoniae), viruses, fungi.
+Symptoms: Fever, cough, chest pain, shortness of breath, fatigue.
+Treatment/Medication:
+  - Bacterial: Amoxicillin, Azithromycin, or Levofloxacin.
+  - Viral: Supportive care; antivirals for influenza-related cases.
+  - Supportive: Oxygen therapy, hydration.
+Cure: Curable with treatment; recovery 1–2 weeks.
+Precautions:
+  - Pneumococcal/influenza vaccines.
+  - Avoid smoking, maintain hygiene.
+  - Early treatment for respiratory infections.
+
+33. Bronchitis
+Cause: Viral (acute) or chronic (smoking, pollution).
+Symptoms: Cough, mucus production, wheezing, chest discomfort.
+Treatment/Medication:
+  - Acute: Symptomatic (rest, hydration, cough syrup).
+  - Chronic: Bronchodilators (Salbutamol), inhaled steroids.
+Cure: Acute resolves in 1–3 weeks; chronic needs management.
+Precautions:
+  - Avoid smoking, pollutants.
+  - Use humidifier for mucus relief.
+  - Vaccination (flu, pneumococcal).
+
+34. Tonsillitis
+Cause: Bacterial (Streptococcus) or viral.
+Symptoms: Sore throat, difficulty swallowing, fever, swollen tonsils.
+Treatment/Medication:
+  - Bacterial: Penicillin or Amoxicillin (10 days).
+  - Viral: Symptomatic (paracetamol, gargles).
+Cure: Curable; bacterial resolves with antibiotics.
+Precautions:
+  - Avoid sharing utensils.
+  - Maintain oral hygiene.
+  - Seek care for recurrent tonsillitis.
+
+35. Eczema (Atopic Dermatitis)
+Cause: Genetic, environmental, immune factors.
+Symptoms: Itchy, red, dry skin, rash.
+Treatment/Medication:
+  - Topical: Hydrocortisone (1%), moisturizers.
+  - Severe: Topical calcineurin inhibitors (Tacrolimus), oral steroids.
+Cure: Manageable but not curable.
+Precautions:
+  - Avoid triggers (soaps, allergens).
+  - Use fragrance-free products.
+  - Keep skin moisturized.
+
+36. Psoriasis
+Cause: Autoimmune condition causing rapid skin cell turnover.
+Symptoms: Red, scaly patches, itching, pain.
+Treatment/Medication:
+  - Topical: Corticosteroids (Betamethasone), vitamin D analogs (Calcipotriene).
+  - Systemic: Methotrexate, biologics (Adalimumab).
+Cure: Manageable but not curable.
+Precautions:
+  - Avoid stress, skin injury.
+  - Moisturize regularly.
+  - Monitor for joint involvement (psoriatic arthritis).
+
+37. Chronic Obstructive Pulmonary Disease (COPD)
+Cause: Smoking, pollution, occupational exposures.
+Symptoms: Chronic cough, shortness of breath, wheezing, mucus production.
+Treatment/Medication:
+  - Bronchodilators: Salbutamol, Tiotropium.
+  - Steroids: Inhaled corticosteroids (Budesonide).
+  - Supportive: Oxygen therapy, pulmonary rehabilitation.
+Cure: Manageable but not curable.
+Precautions:
+  - Quit smoking.
+  - Avoid pollutants.
+  - Annual flu/pneumococcal vaccines.
+
+38. Kidney Stones
+Cause: Crystallization of minerals (calcium, uric acid) in urine.
+Symptoms: Severe flank pain, blood in urine, nausea, frequent urination.
+Treatment/Medication:
+  - Pain relief: Ibuprofen, Tamsulosin (for stone passage).
+  - Hydration: Drink 2–3 liters water daily.
+  - Severe: Surgery (lithotripsy, ureteroscopy).
+Cure: Curable; recurrence common.
+Precautions:
+  - Stay hydrated.
+  - Reduce salt, oxalate-rich foods (spinach, nuts).
+  - Regular urology follow-up.
+
+39. Gout
+Cause: Uric acid crystal buildup in joints.
+Symptoms: Sudden, severe joint pain (big toe), swelling, redness.
+Treatment/Medication:
+  - Acute: NSAIDs (Indomethacin), Colchicine, corticosteroids.
+  - Preventive: Allopurinol, Febuxostat.
+Cure: Manageable; acute attacks curable.
+Precautions:
+  - Avoid purine-rich foods (red meat, shellfish).
+  - Limit alcohol (beer, spirits).
+  - Stay hydrated.
+
+40. Irritable Bowel Syndrome (IBS)
+Cause: Unknown; linked to stress, diet, gut motility issues.
+Symptoms: Abdominal pain, bloating, diarrhea/constipation.
+Treatment/Medication:
+  - Symptomatic: Antispasmodics (Dicyclomine), fiber supplements.
+  - Diarrhea-predominant: Loperamide.
+  - Constipation-predominant: Laxatives (Psyllium).
+Cure: Manageable but not curable.
+Precautions:
+  - Avoid trigger foods (dairy, caffeine).
+  - Manage stress (yoga, meditation).
+  - Eat small, frequent meals.
+
+41. Chickenpox
+Cause: Varicella-zoster virus.
+Symptoms: Itchy rash, fever, fatigue, blisters.
+Treatment/Medication:
+  - Symptomatic: Paracetamol, calamine lotion, antihistamines (for itching).
+  - Antiviral (high-risk): Acyclovir.
+Cure: Self-limiting (1–2 weeks).
+Precautions:
+  - Varicella vaccine.
+  - Avoid scratching blisters.
+  - Isolate until blisters crust over.
+
+42. Measles
+Cause: Measles virus.
+Symptoms: High fever, rash, cough, runny nose, red eyes.
+Treatment/Medication:
+  - Symptomatic: Paracetamol, hydration, vitamin A supplementation.
+Cure: Self-limiting (1–2 weeks).
+Precautions:
+  - MMR vaccine.
+  - Isolate to prevent spread.
+  - Seek care for complications (pneumonia, encephalitis).
+
+43. Mumps
+Cause: Mumps virus.
+Symptoms: Swollen parotid glands, fever, headache, muscle aches.
+Treatment/Medication:
+  - Symptomatic: Paracetamol, rest, hydration.
+Cure: Self-limiting (1–2 weeks).
+Precautions:
+  - MMR vaccine.
+  - Avoid close contact during infectious period.
+  - Maintain hydration.
+
+44. Rabies
+Cause: Rabies virus via animal bites (dogs, bats).
+Symptoms: Fever, headache, agitation, paralysis, hydrophobia.
+Treatment/Medication:
+  - Post-exposure prophylaxis (PEP): Rabies vaccine + immunoglobulin immediately after bite.
+Cure: Preventable with PEP; fatal once symptoms appear.
+Precautions:
+  - Vaccinate pets.
+  - Avoid contact with stray animals.
+  - Immediate wound cleaning and medical care post-bite.
+
+45. Tetanus
+Cause: Clostridium tetani bacteria via wounds.
+Symptoms: Muscle stiffness, lockjaw, spasms, fever.
+Treatment/Medication:
+  - Tetanus immunoglobulin: Neutralizes toxin.
+  - Antibiotics: Metronidazole, Penicillin.
+  - Supportive: Muscle relaxants, wound care.
+Cure: Curable with early treatment.
+Precautions:
+  - Tetanus vaccine (DTaP, Tdap).
+  - Clean wounds thoroughly.
+  - Seek care for deep/puncture wounds.
+
+46. Cholera
+Cause: Vibrio cholerae bacteria via contaminated water/food.
+Symptoms: Severe watery diarrhea, vomiting, dehydration.
+Treatment/Medication:
+  - Rehydration: ORS, IV fluids for severe cases.
+  - Antibiotics: Doxycycline, Azithromycin (prescribed).
+Cure: Curable with prompt rehydration.
+Precautions:
+  - Drink safe water.
+  - Oral cholera vaccine in endemic areas.
+  - Practice food hygiene.
+
+47. Osteoporosis
+Cause: Reduced bone density (aging, hormonal changes).
+Symptoms: Often asymptomatic; fractures, back pain, height loss.
+Treatment/Medication:
+  - Medications: Bisphosphonates (Alendronate), calcium/vitamin D supplements.
+  - Lifestyle: Weight-bearing exercise, balanced diet.
+Cure: Manageable but not curable.
+Precautions:
+  - Ensure calcium/vitamin D intake.
+  - Avoid smoking, excessive alcohol.
+  - Fall prevention (remove tripping hazards).
+
+1. Shigellosis
+Cause: Shigella bacteria via contaminated food/water or fecal-oral route.
+Symptoms: Bloody diarrhea, abdominal cramps, fever, vomiting, tenesmus (urge to pass stool).
+Treatment/Medication:
+  - Rehydration: Oral Rehydration Solution (ORS) 1 liter per 3–4 stools.
+  - Antibiotics: Azithromycin 500 mg once daily for 3 days or Ciprofloxacin 500 mg twice daily for 3 days (prescribed).
+  - Supportive: Paracetamol for fever, light diet (BRAT: bananas, rice, applesauce, toast).
+Cure: Curable with antibiotics and rehydration.
+Precautions:
+  - Drink boiled or bottled water.
+  - Practice good hand hygiene and food safety.
+  - Avoid contact with infected individuals.
+When to see a doctor: Persistent bloody diarrhea, severe dehydration, or fever >3 days.
+
+2. Amoebiasis (Amoebic Dysentery)
+Cause: Entamoeba histolytica parasite via contaminated food/water.
+Symptoms: Loose stools with mucus/blood, abdominal pain, vomiting, fatigue, weight loss.
+Treatment/Medication:
+  - Antiparasitic: Metronidazole 500 mg thrice daily for 7–10 days or Tinidazole 2 g daily for 3 days.
+  - Luminal agent: Paromomycin 25–35 mg/kg daily for 7 days to clear cysts.
+  - Supportive: ORS for hydration, light diet.
+Cure: Curable with treatment; relapse possible if untreated.
+Precautions:
+  - Ensure safe drinking water and food hygiene.
+  - Wash hands thoroughly after using the toilet.
+  - Avoid raw or undercooked foods in endemic areas.
+When to see a doctor: Bloody stools, persistent vomiting, or signs of liver abscess (fever, right upper abdominal pain).
+
+3. Norovirus Infection
+Cause: Norovirus via contaminated food, water, or surfaces.
+Symptoms: Acute vomiting, watery diarrhea, nausea, abdominal cramps, low-grade fever.
+Treatment/Medication:
+  - Symptomatic: ORS for hydration, rest.
+  - Avoid: Antidiarrheal drugs unless prescribed.
+  - Supportive: Light diet (BRAT), hydration with electrolyte drinks.
+Cure: Self-limiting (resolves in 1–3 days).
+Precautions:
+  - Wash hands frequently with soap.
+  - Disinfect surfaces in shared spaces.
+  - Avoid sharing utensils or food during outbreaks.
+When to see a doctor: Severe dehydration, persistent vomiting, or symptoms >3 days.
+
+4. Food Poisoning (Bacterial)
+Cause: Bacteria (e.g., Salmonella, Campylobacter, Staphylococcus aureus) from contaminated food.
+Symptoms: Nausea, vomiting, diarrhea (may be bloody), abdominal pain, fever.
+Treatment/Medication:
+  - Rehydration: ORS or IV fluids for severe cases.
+  - Antibiotics (if severe): Azithromycin 500 mg daily or Ciprofloxacin 500 mg twice daily for 3–5 days (prescribed).
+  - Supportive: Paracetamol for fever, BRAT diet.
+Cure: Self-limiting for most; antibiotics for severe cases.
+Precautions:
+  - Cook food thoroughly, especially poultry and eggs.
+  - Store perishables at safe temperatures.
+  - Avoid cross-contamination in the kitchen.
+When to see a doctor: Bloody diarrhea, dehydration, or symptoms lasting >3 days.
+
+5. Traveler’s Diarrhea
+Cause: Bacteria (E. coli, Shigella), viruses, or parasites from contaminated food/water during travel.
+Symptoms: Frequent loose stools, abdominal cramps, nausea, vomiting, mild fever.
+Treatment/Medication:
+  - Rehydration: ORS (1 liter per 3–4 stools).
+  - Antibiotics (bacterial): Azithromycin 500 mg daily for 1–3 days or Rifaximin 200 mg thrice daily for 3 days.
+  - Symptomatic: Loperamide (2 mg after each loose stool, max 8 mg/day) for non-bloody diarrhea.
+Cure: Self-limiting (3–5 days); antibiotics speed recovery in bacterial cases.
+Precautions:
+  - Drink bottled or boiled water while traveling.
+  - Avoid street food or raw vegetables in high-risk areas.
+  - Carry hand sanitizer for hygiene.
+When to see a doctor: Persistent diarrhea, blood in stools, or severe dehydration.
+
+6. Giardiasis
+Cause: Giardia lamblia parasite via contaminated water/food.
+Symptoms: Foul-smelling diarrhea, bloating, flatulence, nausea, weight loss.
+Treatment/Medication:
+  - Antiparasitic: Metronidazole 250 mg thrice daily for 5–7 days or Tinidazole 2 g single dose.
+  - Supportive: ORS, light diet.
+Cure: Curable with treatment.
+Precautions:
+  - Drink purified water in endemic areas.
+  - Wash hands before eating.
+  - Avoid swimming in untreated water sources.
+When to see a doctor: Persistent diarrhea, dehydration, or weight loss.
+
+7. Cholestasis (Related to Vomiting)
+Cause: Impaired bile flow (e.g., gallstones, liver disease).
+Symptoms: Nausea, vomiting, jaundice, dark urine, pale stools, itching.
+Treatment/Medication:
+  - Symptomatic: Ursodeoxycholic acid 10–15 mg/kg daily to improve bile flow.
+  - Anti-emetic: Ondansetron 4–8 mg as needed for vomiting.
+  - Supportive: Hydration, low-fat diet.
+Cure: Depends on cause; treatable with medical intervention.
+Precautions:
+  - Avoid high-fat foods.
+  - Regular liver function monitoring.
+  - Seek evaluation for underlying liver/gallbladder issues.
+When to see a doctor: Persistent vomiting, jaundice, or severe abdominal pain.
+
+8. Appendicitis
+Cause: Inflammation of the appendix, often due to obstruction or infection.
+Symptoms: Right lower abdominal pain, nausea, vomiting, fever, loss of appetite.
+Treatment/Medication:
+  - Surgery: Appendectomy (urgent).
+  - Antibiotics (pre-surgery): Ceftriaxone 1 g IV + Metronidazole 500 mg IV.
+  - Pain relief: Paracetamol or prescribed analgesics (avoid NSAIDs).
+Cure: Curable with surgery.
+Precautions:
+  - Seek immediate medical care for abdominal pain.
+  - Avoid delaying treatment to prevent rupture.
+When to see a doctor: Worsening pain, fever, or inability to eat.
+
+9. Pancreatitis (Acute)
+Cause: Gallstones, alcohol, high triglycerides, or medications.
+Symptoms: Severe upper abdominal pain, vomiting, nausea, fever.
+Treatment/Medication:
+  - Supportive: IV fluids, fasting, hydration.
+  - Pain relief: IV analgesics (e.g., Tramadol).
+  - Severe cases: Hospitalization, treat underlying cause (e.g., gallstone removal).
+Cure: Resolves with treatment; chronic cases need ongoing management.
+Precautions:
+  - Avoid alcohol and fatty foods.
+  - Manage blood lipid levels.
+  - Regular medical check-ups for recurrent cases.
+When to see a doctor: Severe abdominal pain, persistent vomiting, or fever.
+
+10. Celiac Disease
+Cause: Autoimmune reaction to gluten in genetically predisposed individuals.
+Symptoms: Diarrhea, bloating, vomiting, weight loss, fatigue.
+Treatment/Medication:
+  - Diet: Strict gluten-free diet (avoid wheat, barley, rye).
+  - Supportive: Vitamin supplements (B12, iron, folate) for deficiencies.
+Cure: Manageable with diet; not curable.
+Precautions:
+  - Check food labels for gluten.
+  - Avoid cross-contamination in food preparation.
+  - Regular follow-up with a dietitian or doctor.
+When to see a doctor: Persistent gastrointestinal symptoms or nutrient deficiencies.
+
+11. Rotavirus Infection
+Cause: Rotavirus, primarily in children, via fecal-oral route.
+Symptoms: Severe watery diarrhea, vomiting, fever, dehydration.
+Treatment/Medication:
+  - Rehydration: ORS (frequent small sips).
+  - Supportive: Zinc 10–20 mg daily for 10–14 days (children).
+  - Avoid: Antidiarrheal drugs.
+Cure: Self-limiting (3–7 days).
+Precautions:
+  - Rotavirus vaccine for infants.
+  - Maintain hand hygiene.
+  - Disinfect surfaces during outbreaks.
+When to see a doctor: Signs of dehydration (dry mouth, no urine, lethargy).
+
+12. Cyclosporiasis
+Cause: Cyclospora cayetanensis parasite via contaminated food/water.
+Symptoms: Watery diarrhea, nausea, vomiting, fatigue, bloating.
+Treatment/Medication:
+  - Antiparasitic: Trimethoprim-sulfamethoxazole (160/800 mg) twice daily for 7 days.
+  - Supportive: ORS, light diet.
+Cure: Curable with treatment.
+Precautions:
+  - Wash fruits and vegetables thoroughly.
+  - Drink safe water in endemic areas.
+  - Practice good hygiene.
+When to see a doctor: Prolonged diarrhea or dehydration.
+
+13. Diverticulitis
+Cause: Inflammation of diverticula in the colon, often due to infection or obstruction.
+Symptoms: Left lower abdominal pain, fever, nausea, vomiting, diarrhea or constipation.
+Treatment/Medication:
+  - Antibiotics: Ciprofloxacin 500 mg twice daily + Metronidazole 500 mg thrice daily for 7–10 days.
+  - Pain relief: Paracetamol (avoid NSAIDs).
+  - Diet: Clear liquids initially, then high-fiber diet.
+Cure: Curable with treatment; recurrence possible.
+Precautions:
+  - Eat high-fiber foods (fruits, vegetables).
+  - Stay hydrated.
+  - Avoid seeds/nuts if advised by a doctor.
+When to see a doctor: Severe pain, fever, or persistent symptoms.
+
+14. Viral Hepatitis (Non-A/B/C, e.g., Hepatitis E)
+Cause: Hepatitis E virus via contaminated water/food.
+Symptoms: Jaundice, nausea, vomiting, abdominal pain, diarrhea, fatigue.
+Treatment/Medication:
+  - Symptomatic: Rest, hydration, light diet.
+  - Supportive: ORS for diarrhea, anti-emetics (Ondansetron) for vomiting.
+Cure: Self-limiting (2–6 weeks); chronic in immunocompromised.
+Precautions:
+  - Drink safe water.
+  - Practice food hygiene in endemic areas.
+  - Avoid undercooked pork/shellfish.
+When to see a doctor: Jaundice, persistent vomiting, or signs of liver dysfunction.
+
+15. Listeriosis
+Cause: Listeria monocytogenes bacteria via contaminated food (e.g., deli meats, soft cheeses).
+Symptoms: Fever, diarrhea, vomiting, muscle aches, headache; severe in pregnant women.
+Treatment/Medication:
+  - Antibiotics: Ampicillin 2 g IV every 4 hours or Trimethoprim-sulfamethoxazole (prescribed).
+  - Supportive: Hydration, rest.
+Cure: Curable with antibiotics; severe in high-risk groups.
+Precautions:
+  - Avoid unpasteurized dairy, undercooked meats.
+  - Wash raw vegetables thoroughly.
+  - High-risk groups (pregnant, elderly) avoid deli foods.
+When to see a doctor: Fever with diarrhea in pregnant women or immunocompromised individuals.
+
+16. Inflammatory Bowel Disease (Crohn’s Disease/Ulcerative Colitis)
+Cause: Autoimmune; genetic and environmental factors.
+Symptoms: Chronic diarrhea (often bloody), abdominal pain, vomiting, weight loss.
+Treatment/Medication:
+  - Anti-inflammatory: Mesalamine 2–4 g daily or Sulfasalazine.
+  - Immunosuppressants: Azathioprine, biologics (Infliximab).
+  - Symptomatic: Anti-diarrheals (Loperamide), anti-emetics (Ondansetron).
+Cure: Manageable but not curable.
+Precautions:
+  - Avoid trigger foods (spicy, dairy).
+  - Manage stress.
+  - Regular gastroenterologist follow-up.
+When to see a doctor: Bloody diarrhea, severe pain, or weight loss.
+
+17. Hyperemesis Gravidarum
+Cause: Severe nausea/vomiting in pregnancy, likely hormonal.
+Symptoms: Persistent vomiting, dehydration, weight loss, electrolyte imbalance.
+Treatment/Medication:
+  - Anti-emetics: Ondansetron 4–8 mg as needed or Metoclopramide 10 mg.
+  - Supportive: IV fluids, electrolyte correction, vitamin B6 (Pyridoxine).
+Cure: Resolves post-pregnancy; manageable during pregnancy.
+Precautions:
+  - Eat small, frequent meals.
+  - Stay hydrated with electrolyte drinks.
+  - Avoid strong odors or trigger foods.
+When to see a doctor: Inability to keep food down, dehydration, or weight loss >5%.
+
+18. Motion Sickness
+Cause: Sensory mismatch between eyes and inner ear during travel.
+Symptoms: Nausea, vomiting, dizziness, sweating.
+Treatment/Medication:
+  - Medications: Dimenhydrinate 50 mg or Scopolamine patch (prescribed).
+  - Supportive: Rest, focus on horizon, avoid reading while moving.
+Cure: Resolves after stopping motion.
+Precautions:
+  - Sit in stable areas (front of car, middle of plane).
+  - Avoid heavy meals before travel.
+  - Use acupressure wristbands if needed.
+When to see a doctor: Persistent vomiting or severe dizziness.
+
+19. Gastritis (Non-H. pylori)
+Cause: Alcohol, stress, bile reflux, or medications (NSAIDs).
+Symptoms: Upper abdominal pain, nausea, vomiting, bloating.
+Treatment/Medication:
+  - Acid reduction: Pantoprazole 40 mg daily or Ranitidine 150 mg twice daily.
+  - Supportive: Light diet, avoid irritants.
+Cure: Curable with treatment; depends on cause.
+Precautions:
+  - Avoid alcohol, spicy foods, NSAIDs.
+  - Eat small, frequent meals.
+  - Manage stress.
+When to see a doctor: Persistent vomiting, blood in vomit/stool, or severe pain.
+
+20. Clostridium difficile Infection
+Cause: C. difficile bacteria, often post-antibiotic use.
+Symptoms: Watery diarrhea, fever, abdominal pain, nausea.
+Treatment/Medication:
+  - Antibiotics: Vancomycin 125 mg four times daily or Fidaxomicin 200 mg twice daily for 10 days.
+  - Supportive: ORS, discontinue triggering antibiotics.
+Cure: Curable with treatment; recurrence possible.
+Precautions:
+  - Avoid unnecessary antibiotics.
+  - Practice hand hygiene (alcohol-based sanitizers ineffective).
+  - Disinfect surfaces in healthcare settings.
+When to see a doctor: Severe diarrhea, fever, or dehydration.
+
+
+1. Campylobacteriosis
+Cause: Campylobacter bacteria (e.g., C. jejuni) via contaminated food (poultry, dairy) or water.
+Symptoms: Watery or bloody diarrhea, abdominal cramps, fever, nausea, vomiting.
+Treatment/Medication:
+  - Rehydration: Oral Rehydration Solution (ORS) 1 liter per 3–4 stools.
+  - Antibiotics (severe cases): Azithromycin 500 mg daily for 3 days or Erythromycin 500 mg twice daily for 5 days (prescribed).
+  - Supportive: Paracetamol for fever, BRAT diet (bananas, rice, applesauce, toast).
+Cure: Self-limiting (3–7 days); antibiotics for severe cases.
+Precautions:
+  - Cook poultry thoroughly.
+  - Avoid unpasteurized dairy.
+  - Practice hand hygiene and food safety.
+When to see a doctor: Bloody diarrhea, dehydration, or symptoms >7 days.
+
+2. Yersiniosis
+Cause: Yersinia enterocolitica bacteria via undercooked pork or contaminated water.
+Symptoms: Diarrhea (often bloody), abdominal pain, fever, vomiting, mimicking appendicitis.
+Treatment/Medication:
+  - Rehydration: ORS for hydration.
+  - Antibiotics (severe cases): Doxycycline 100 mg twice daily or Trimethoprim-sulfamethoxazole (160/800 mg) twice daily for 5 days.
+  - Supportive: Light diet, paracetamol for fever.
+Cure: Self-limiting (1–2 weeks); antibiotics for severe cases.
+Precautions:
+  - Cook pork thoroughly.
+  - Avoid contaminated water.
+  - Wash hands after handling raw meat.
+When to see a doctor: Severe abdominal pain, persistent diarrhea, or fever.
+
+3. Cryptosporidiosis
+Cause: Cryptosporidium parasite via contaminated water or food.
+Symptoms: Watery diarrhea, nausea, vomiting, abdominal cramps, low-grade fever.
+Treatment/Medication:
+  - Rehydration: ORS (frequent sips).
+  - Antiparasitic (severe cases): Nitazoxanide 500 mg twice daily for 3 days (prescribed).
+  - Supportive: Light diet, rest.
+Cure: Self-limiting (1–2 weeks); longer in immunocompromised.
+Precautions:
+  - Drink purified water.
+  - Avoid swimming in contaminated pools.
+  - Practice hand hygiene.
+When to see a doctor: Persistent diarrhea, dehydration, or immunocompromised status.
+
+4. Salmonellosis (Non-Typhoidal)
+Cause: Non-typhoidal Salmonella bacteria via contaminated food (eggs, poultry) or water.
+Symptoms: Diarrhea, fever, abdominal cramps, vomiting, nausea.
+Treatment/Medication:
+  - Rehydration: ORS or IV fluids for severe cases.
+  - Antibiotics (severe cases): Ciprofloxacin 500 mg twice daily or Azithromycin 500 mg daily for 3–5 days.
+  - Supportive: BRAT diet, paracetamol for fever.
+Cure: Self-limiting (4–7 days); antibiotics for severe cases.
+Precautions:
+  - Cook eggs and poultry thoroughly.
+  - Avoid cross-contamination in the kitchen.
+  - Wash hands after handling raw food.
+When to see a doctor: Bloody diarrhea, high fever, or dehydration.
+
+5. Esophagitis
+Cause: Inflammation of the esophagus (e.g., from acid reflux, infections, or medications).
+Symptoms: Heartburn, difficulty swallowing, nausea, vomiting, chest pain.
+Treatment/Medication:
+  - Acid reduction: Pantoprazole 40 mg daily or Esomeprazole 20 mg daily.
+  - Anti-emetic: Ondansetron 4 mg as needed for vomiting.
+  - Supportive: Soft diet, avoid irritants (spicy foods, alcohol).
+Cure: Curable with treatment; depends on cause.
+Precautions:
+  - Avoid lying down after meals.
+  - Limit alcohol, caffeine, and NSAIDs.
+  - Eat small, frequent meals.
+When to see a doctor: Persistent vomiting, swallowing difficulty, or weight loss.
+
+6. Viral Gastroenteritis (Non-Norovirus)
+Cause: Viruses (e.g., adenovirus, astrovirus) via contaminated food or surfaces.
+Symptoms: Vomiting, watery diarrhea, abdominal pain, low-grade fever.
+Treatment/Medication:
+  - Rehydration: ORS (1 liter per 3–4 stools).
+  - Supportive: Light diet (BRAT), rest.
+  - Avoid: Antidiarrheal drugs unless prescribed.
+Cure: Self-limiting (2–5 days).
+Precautions:
+  - Wash hands frequently.
+  - Disinfect surfaces in shared spaces.
+  - Avoid sharing utensils during outbreaks.
+When to see a doctor: Severe dehydration, persistent vomiting, or symptoms >5 days.
+
+7. Bacillary Dysentery (Related to Shigellosis)
+Cause: Shigella-like bacteria (e.g., Escherichia coli variants) via contaminated food/water.
+Symptoms: Bloody diarrhea, fever, abdominal cramps, vomiting, urgency to pass stool.
+Treatment/Medication:
+  - Rehydration: ORS or IV fluids for severe cases.
+  - Antibiotics: Ceftriaxone 1 g IV daily or Azithromycin 500 mg daily for 3 days (prescribed).
+  - Supportive: Paracetamol for fever, light diet.
+Cure: Curable with antibiotics and rehydration.
+Precautions:
+  - Ensure safe drinking water and food hygiene.
+  - Practice hand washing after toilet use.
+  - Avoid contact with infected individuals.
+When to see a doctor: Bloody stools, high fever, or dehydration.
+
+8. Cholecystitis (Gallbladder Inflammation)
+Cause: Gallstones or infection blocking the gallbladder.
+Symptoms: Right upper abdominal pain, nausea, vomiting, fever, jaundice.
+Treatment/Medication:
+  - Antibiotics (if infected): Ceftriaxone 1 g IV + Metronidazole 500 mg IV.
+  - Pain relief: Paracetamol or prescribed analgesics.
+  - Surgery: Cholecystectomy (gallbladder removal) for severe cases.
+Cure: Curable with treatment or surgery.
+Precautions:
+  - Avoid high-fat foods.
+  - Maintain healthy weight.
+  - Seek early evaluation for abdominal pain.
+When to see a doctor: Severe pain, fever, or jaundice.
+
+9. Small Intestinal Bacterial Overgrowth (SIBO)
+Cause: Excessive bacteria in the small intestine, often post-antibiotic use or motility issues.
+Symptoms: Bloating, diarrhea, abdominal pain, nausea, vomiting.
+Treatment/Medication:
+  - Antibiotics: Rifaximin 550 mg thrice daily for 14 days or Metronidazole 250 mg thrice daily.
+  - Supportive: Probiotics, low-FODMAP diet.
+Cure: Manageable with treatment; recurrence common.
+Precautions:
+  - Avoid unnecessary antibiotics.
+  - Eat small, low-carb meals.
+  - Regular gastroenterologist follow-up.
+When to see a doctor: Persistent bloating, diarrhea, or malabsorption symptoms.
+
+10. Hemorrhagic Colitis
+Cause: Enterohemorrhagic E. coli (e.g., E. coli O157:H7) via contaminated food/water.
+Symptoms: Bloody diarrhea, abdominal cramps, vomiting, no/low fever.
+Treatment/Medication:
+  - Rehydration: ORS or IV fluids for severe cases.
+  - Avoid: Antibiotics (may increase toxin release).
+  - Supportive: Light diet, rest.
+Cure: Self-limiting (5–10 days); complications possible.
+Precautions:
+  - Cook meat thoroughly (especially beef).
+  - Avoid unpasteurized dairy or juices.
+  - Wash hands and produce thoroughly.
+When to see a doctor: Bloody diarrhea, dehydration, or signs of hemolytic uremic syndrome (pale skin, reduced urine).
+
+11. Tropical Sprue
+Cause: Unknown; likely bacterial or environmental, common in tropical regions.
+Symptoms: Chronic diarrhea, malabsorption, vomiting, weight loss, fatigue.
+Treatment/Medication:
+  - Antibiotics: Tetracycline 250 mg four times daily or Doxycycline 100 mg daily for 3–6 months.
+  - Supplements: Folic acid 5 mg daily, Vitamin B12 1000 mcg IM.
+  - Supportive: High-calorie, gluten-free diet.
+Cure: Curable with prolonged treatment.
+Precautions:
+  - Avoid contaminated food/water in tropical areas.
+  - Maintain nutrient-rich diet.
+  - Regular medical follow-up.
+When to see a doctor: Persistent diarrhea, weight loss, or nutrient deficiencies.
+
+12. Vibrio parahaemolyticus Infection
+Cause: Vibrio parahaemolyticus bacteria via undercooked seafood.
+Symptoms: Watery diarrhea, nausea, vomiting, abdominal cramps, fever.
+Treatment/Medication:
+  - Rehydration: ORS or IV fluids for severe cases.
+  - Antibiotics (severe cases): Doxycycline 100 mg twice daily for 3 days or Azithromycin 500 mg daily.
+  - Supportive: Light diet, paracetamol for fever.
+Cure: Self-limiting (3–5 days); antibiotics for severe cases.
+Precautions:
+  - Cook seafood thoroughly.
+  - Avoid raw shellfish (oysters, clams).
+  - Practice food hygiene.
+When to see a doctor: Severe dehydration or persistent symptoms.
+
+13. Lactose Intolerance
+Cause: Deficiency of lactase enzyme, leading to dairy intolerance.
+Symptoms: Bloating, diarrhea, nausea, vomiting after dairy consumption.
+Treatment/Medication:
+  - Diet: Lactose-free or low-lactose diet.
+  - Supplements: Lactase enzyme tablets before dairy intake.
+  - Supportive: Calcium/vitamin D supplements if dairy avoided.
+Cure: Manageable with diet; not curable.
+Precautions:
+  - Avoid dairy products (milk, cheese).
+  - Check labels for hidden lactose.
+  - Use plant-based milk alternatives.
+When to see a doctor: Persistent symptoms despite dietary changes.
+
+14. Drug-Induced Vomiting/Diarrhea
+Cause: Side effects of medications (e.g., antibiotics, chemotherapy, NSAIDs).
+Symptoms: Nausea, vomiting, diarrhea, abdominal discomfort.
+Treatment/Medication:
+  - Symptomatic: Anti-emetics (Ondansetron 4 mg), anti-diarrheals (Loperamide 2 mg as needed).
+  - Supportive: ORS, light diet.
+  - Management: Adjust or discontinue offending drug (doctor supervision).
+Cure: Resolves after stopping trigger medication.
+Precautions:
+  - Take medications with food if advised.
+  - Consult doctor before starting new drugs.
+  - Monitor for side effects during treatment.
+When to see a doctor: Severe vomiting, diarrhea, or dehydration.
+
+15. Ischemic Colitis
+Cause: Reduced blood flow to the colon (e.g., due to vascular issues or dehydration).
+Symptoms: Sudden abdominal pain, bloody diarrhea, nausea, vomiting.
+Treatment/Medication:
+  - Supportive: IV fluids, bowel rest (clear liquids).
+  - Antibiotics (if infected): Ciprofloxacin 500 mg twice daily + Metronidazole 500 mg thrice daily.
+  - Severe cases: Surgery for complications (e.g., perforation).
+Cure: Resolves with treatment; depends on severity.
+Precautions:
+  - Manage cardiovascular risk factors (e.g., hypertension).
+  - Stay hydrated.
+  - Avoid dehydration during illness.
+When to see a doctor: Bloody stools, severe pain, or fever.
+
+16. Whipple’s Disease
+Cause: Tropheryma whipplei bacteria, rare malabsorption disorder.
+Symptoms: Chronic diarrhea, weight loss, abdominal pain, vomiting, joint pain.
+Treatment/Medication:
+  - Antibiotics: Ceftriaxone 2 g IV daily for 2 weeks, followed by Trimethoprim-sulfamethoxazole (160/800 mg) twice daily for 1 year.
+  - Supportive: Nutritional supplements, high-calorie diet.
+Cure: Curable with prolonged antibiotics.
+Precautions:
+  - Regular medical follow-up.
+  - Monitor for nutrient deficiencies.
+  - Maintain balanced diet.
+When to see a doctor: Persistent diarrhea, weight loss, or joint pain.
+
+17. Bacterial Overgrowth Syndrome (Non-SIBO)
+Cause: Bacterial overgrowth in the gut due to motility disorders or structural issues.
+Symptoms: Diarrhea, bloating, nausea, vomiting, malabsorption.
+Treatment/Medication:
+  - Antibiotics: Metronidazole 250 mg thrice daily or Amoxicillin-Clavulanate 500 mg thrice daily for 7–10 days.
+  - Supportive: Probiotics, low-carb diet.
+Cure: Manageable; recurrence possible.
+Precautions:
+  - Avoid high-sugar diets.
+  - Treat underlying motility issues.
+  - Regular gastroenterologist consultation.
+When to see a doctor: Persistent bloating or diarrhea.
+
+18. Radiation Enteritis
+Cause: Gut inflammation from pelvic/abdominal radiation therapy.
+Symptoms: Diarrhea, nausea, vomiting, abdominal pain, blood in stool.
+Treatment/Medication:
+  - Symptomatic: Loperamide 2 mg for diarrhea, Ondansetron 4 mg for vomiting.
+  - Anti-inflammatory: Budesonide 9 mg daily.
+  - Supportive: Low-fiber diet, hydration.
+Cure: Manageable; symptoms may persist post-radiation.
+Precautions:
+  - Follow dietary advice during radiation therapy.
+  - Stay hydrated.
+  - Monitor for long-term complications.
+When to see a doctor: Bloody stools, severe pain, or dehydration.
+
+19. Intussusception
+Cause: Telescoping of intestine, often in children or due to tumors in adults.
+Symptoms: Severe abdominal pain, vomiting, bloody stools, diarrhea.
+Treatment/Medication:
+  - Non-surgical: Air or contrast enema (children).
+  - Surgical: Laparotomy for adults or failed enema.
+  - Supportive: IV fluids, pain relief (paracetamol).
+Cure: Curable with intervention.
+Precautions:
+  - Seek immediate care for sudden abdominal pain.
+  - Monitor for recurrence in children.
+When to see a doctor: Severe pain, vomiting, or bloody stools.
+
+20. Mesenteric Ischemia
+Cause: Reduced blood flow to intestines (acute or chronic).
+Symptoms: Severe abdominal pain (post-meal), vomiting, diarrhea, fever.
+Treatment/Medication:
+  - Acute: Surgery (revascularization or resection), IV fluids, antibiotics (e.g., Ceftriaxone).
+  - Chronic: Manage vascular risk factors, antiplatelets (Aspirin).
+  - Supportive: Pain relief (prescribed).
+Cure: Depends on severity; acute cases need urgent intervention.
+Precautions:
+  - Manage cardiovascular risks (e.g., hypertension, cholesterol).
+  - Avoid smoking.
+  - Seek early evaluation for abdominal pain.
+When to see a doctor: Sudden severe abdominal pain, vomiting, or bloody stools.
+
+
+1. Breast Cancer
+Cause: Genetic mutations (e.g., BRCA1/BRCA2), hormonal factors, family history.
+Symptoms: Lump in breast, nipple discharge, skin changes, swelling.
+Treatment/Medication:
+  - Surgery: Lumpectomy or mastectomy.
+  - Chemotherapy: Drugs like doxorubicin, cyclophosphamide.
+  - Radiation: External beam radiation.
+  - Targeted therapy: Trastuzumab (Herceptin) for HER2-positive.
+  - Hormonal: Tamoxifen for estrogen-receptor positive.
+Cure: Potentially curable in early stages; advanced cases manageable.
+Precautions:
+  - Regular mammograms starting age 40 or earlier if high risk.
+  - Breast self-exams monthly.
+  - Maintain healthy weight, limit alcohol.
+When to see a doctor: New lump, persistent pain, or skin changes.
+
+2. Lung Cancer
+Cause: Smoking, radon exposure, asbestos, air pollution.
+Symptoms: Persistent cough, chest pain, shortness of breath, weight loss.
+Treatment/Medication:
+  - Surgery: Lobectomy or pneumonectomy.
+  - Chemotherapy: Cisplatin, paclitaxel.
+  - Radiation: Stereotactic body radiotherapy.
+  - Targeted therapy: Osimertinib for EGFR mutations.
+  - Immunotherapy: Pembrolizumab.
+Cure: Curable if detected early; otherwise, palliative.
+Precautions:
+  - Quit smoking; avoid secondhand smoke.
+  - Low-dose CT screening for high-risk individuals (age 50–80, 20-pack-year history).
+  - Healthy diet rich in fruits/vegetables.
+When to see a doctor: Chronic cough, hemoptysis, unexplained weight loss.
+
+3. Colorectal Cancer
+Cause: Polyps, genetic (e.g., Lynch syndrome), diet high in red meat.
+Symptoms: Blood in stool, abdominal pain, changes in bowel habits, anemia.
+Treatment/Medication:
+  - Surgery: Polypectomy or colectomy.
+  - Chemotherapy: 5-Fluorouracil, oxaliplatin.
+  - Radiation: For rectal cancer.
+  - Targeted therapy: Bevacizumab.
+Cure: Curable in early stages; advanced cases manageable.
+Precautions:
+  - Colonoscopy screening starting age 45.
+  - High-fiber diet, low red meat.
+  - Aspirin (low-dose) for prevention in some cases.
+When to see a doctor: Rectal bleeding, persistent constipation/diarrhea.
+
+4. Prostate Cancer
+Cause: Age, family history, African descent.
+Symptoms: Difficulty urinating, blood in urine, pelvic pain.
+Treatment/Medication:
+  - Surgery: Prostatectomy.
+  - Radiation: Brachytherapy or external beam.
+  - Hormone therapy: Leuprolide.
+  - Chemotherapy: Docetaxel for advanced.
+Cure: Often curable if localized; watchful waiting for low-risk.
+Precautions:
+  - PSA screening starting age 50 (earlier if high risk).
+  - Healthy diet, regular exercise.
+  - Limit dairy and calcium excess.
+When to see a doctor: Urinary issues, erectile dysfunction.
+
+5. Chlamydia (STI)
+Cause: Chlamydia trachomatis bacteria via sexual contact.
+Symptoms: Often asymptomatic; discharge, pain during urination, pelvic pain.
+Treatment/Medication:
+  - Antibiotics: Azithromycin 1 g single dose or Doxycycline 100 mg twice daily for 7 days.
+  - Partner treatment required.
+Cure: Curable with antibiotics.
+Precautions:
+  - Use condoms consistently.
+  - Annual screening for sexually active under 25.
+  - Abstain from sex until treatment complete.
+When to see a doctor: Abnormal discharge, pain, or post-exposure.
+
+6. Gonorrhea (STI)
+Cause: Neisseria gonorrhoeae bacteria via sexual contact.
+Symptoms: Discharge, burning urination; often asymptomatic in women.
+Treatment/Medication:
+  - Antibiotics: Ceftriaxone 500 mg IM single dose.
+  - Test-of-cure for pharyngeal infection after 7–14 days.
+Cure: Curable with antibiotics; resistance monitored.
+Precautions:
+  - Condom use; regular testing.
+  - Notify partners for treatment.
+  - Avoid douching.
+When to see a doctor: Symptoms or known exposure.
+
+7. Syphilis (STI)
+Cause: Treponema pallidum bacteria via sexual contact or congenital.
+Symptoms: Chancre sore, rash, fever; progresses to neurosyphilis if untreated.
+Treatment/Medication:
+  - Penicillin G 2.4 million units IM single dose (primary/secondary); longer for late stages.
+Cure: Curable with antibiotics; early treatment best.
+Precautions:
+  - Condoms; screening in pregnancy.
+  - Partner notification and treatment.
+  - Avoid sex until cleared.
+When to see a doctor: Suspicious sore, rash, or neurological symptoms.
+
+8. Genital Herpes (STI)
+Cause: Herpes simplex virus (HSV-1/2) via skin-to-skin contact.
+Symptoms: Painful blisters, itching, flu-like symptoms.
+Treatment/Medication:
+  - Antivirals: Acyclovir 400 mg thrice daily for 7–10 days (initial); suppressive valacyclovir 500 mg daily.
+Cure: Not curable; outbreaks manageable.
+Precautions:
+  - Condoms; avoid contact during outbreaks.
+  - Daily suppressive therapy reduces transmission.
+  - Disclose status to partners.
+When to see a doctor: First outbreak or frequent recurrences.
+
+9. Human Papillomavirus (HPV) Infection (STI)
+Cause: HPV virus via sexual contact.
+Symptoms: Genital warts, often asymptomatic; linked to cancers.
+Treatment/Medication:
+  - Warts: Topical imiquimod or podophyllin.
+  - No cure for virus; vaccines prevent.
+Cure: Virus clears in most; warts treatable.
+Precautions:
+  - HPV vaccine (Gardasil 9) ages 9–45.
+  - Condoms reduce but don't eliminate risk.
+  - Pap smears for cervical screening.
+When to see a doctor: Warts or abnormal Pap.
+
+10. Acute Otitis Media (Childhood Ear Infection)
+Cause: Bacterial/viral infection following cold.
+Symptoms: Ear pain, fever, tugging at ear, irritability.
+Treatment/Medication:
+  - Antibiotics: Amoxicillin 80–90 mg/kg/day for 10 days if severe.
+  - Pain relief: Ibuprofen or acetaminophen.
+Cure: Curable with treatment; resolves in 1–2 weeks.
+Precautions:
+  - Pneumococcal/Hib vaccines.
+  - Breastfeeding, avoid smoke exposure.
+  - Up-to-date immunizations.
+When to see a doctor: Fever >102°F, severe pain, discharge.
+
+11. Hand, Foot, and Mouth Disease (Childhood)
+Cause: Coxsackievirus via fecal-oral/contact.
+Symptoms: Fever, sore throat, rash on hands/feet/mouth.
+Treatment/Medication:
+  - Symptomatic: Acetaminophen for fever/pain, hydration.
+  - Soft diet for mouth sores.
+Cure: Self-limiting (7–10 days).
+Precautions:
+  - Handwashing; isolate during contagious period.
+  - No vaccine; hygiene key.
+When to see a doctor: Dehydration, high fever >3 days.
+
+12. Kawasaki Disease (Childhood)
+Cause: Unknown; possible infectious trigger in genetically susceptible.
+Symptoms: High fever >5 days, rash, red eyes, swollen hands/feet.
+Treatment/Medication:
+  - IV immunoglobulin (IGIV) 2 g/kg single dose + aspirin 80–100 mg/kg/day initially.
+Cure: Treatable if early; prevents heart complications.
+Precautions:
+  - Early diagnosis critical.
+  - Follow-up echocardiograms.
+When to see a doctor: Prolonged fever with rash/eye changes.
+
+13. Croup (Childhood)
+Cause: Parainfluenza virus.
+Symptoms: Barking cough, stridor, hoarseness, fever.
+Treatment/Medication:
+  - Corticosteroids: Dexamethasone 0.6 mg/kg single dose.
+  - Nebulized epinephrine for severe stridor.
+Cure: Self-limiting (3–5 days).
+Precautions:
+  - Humidified air; upright position.
+  - Avoid irritants like smoke.
+When to see a doctor: Difficulty breathing, stridor at rest.
+
+14. Roseola (Childhood)
+Cause: Human herpesvirus 6/7.
+Symptoms: High fever 3–5 days, then pink rash.
+Treatment/Medication:
+  - Symptomatic: Acetaminophen for fever.
+Cure: Self-limiting (1 week).
+Precautions:
+  - Isolation during fever phase.
+  - Hydration.
+When to see a doctor: Seizures from fever, rash with illness.
+
+15. Fifth Disease (Erythema Infectiosum, Childhood)
+Cause: Parvovirus B19.
+Symptoms: Slapped-cheek rash, lacy rash on body, mild fever.
+Treatment/Medication:
+  - Symptomatic: Rest, acetaminophen if needed.
+Cure: Self-limiting (1–3 weeks).
+Precautions:
+  - Avoid contact with pregnant women (fetal risk).
+  - Handwashing.
+When to see a doctor: Joint pain, anemia in chronic cases.
+
+16. Hepatitis B Vaccine
+Cause/Disease Prevented: Hepatitis B virus (liver infection, cancer risk).
+Schedule: Birth dose, 1–2 months, 6–18 months; boosters if high risk.
+Treatment/Medication: N/A (preventive); recombinant vaccine (Engerix-B, Recombivax HB).
+Cure: Prevents chronic infection; no cure for disease.
+Precautions:
+  - Screen pregnant women; give to newborns of carriers.
+  - Safe in pregnancy.
+When to see a doctor: For catch-up if missed.
+
+17. MMR Vaccine (Measles, Mumps, Rubella)
+Cause/Disease Prevented: Measles (rash/fever), mumps (swelling), rubella (birth defects).
+Schedule: 12–15 months, 4–6 years.
+Treatment/Medication: Live attenuated vaccine.
+Cure: Prevents outbreaks; no cure for diseases.
+Precautions:
+  - Avoid in immunocompromised.
+  - Two doses for 97% efficacy.
+When to see a doctor: For MMRV combo or catch-up.
+
+18. DTaP Vaccine (Diphtheria, Tetanus, Pertussis)
+Cause/Disease Prevented: Diphtheria (throat infection), tetanus (lockjaw), pertussis (whooping cough).
+Schedule: 2, 4, 6 months; 15–18 months; 4–6 years; Tdap booster 11–12 years.
+Treatment/Medication: Acellular pertussis vaccine.
+Cure: Prevents severe respiratory issues; antibiotics for pertussis.
+Precautions:
+  - Tdap for adolescents/adults.
+  - Pregnancy booster.
+When to see a doctor: Coughing fits, wound care.
+
+19. HPV Vaccine
+Cause/Disease Prevented: Human papillomavirus (warts, cervical/other cancers).
+Schedule: 11–12 years (2–3 doses); up to 26 or 45 if high risk.
+Treatment/Medication: Gardasil 9 (quadrivalent/nonavalent).
+Cure: Prevents 90% of related cancers.
+Precautions:
+  - Before sexual activity.
+  - Safe for boys/girls.
+When to see a doctor: Catch-up for missed doses.
+
+20. Influenza Vaccine (Flu Shot)
+Cause/Disease Prevented: Influenza viruses (fever, cough, complications).
+Schedule: Annually starting 6 months.
+Treatment/Medication: Inactivated or live attenuated vaccine.
+Cure: Reduces severity; antivirals for treatment.
+Precautions:
+  - Egg-free options available.
+  - High-dose for elderly.
+When to see a doctor: Flu-like symptoms post-vaccination (rare).
+
+
+
+
+
+1. Jet Lag
+Cause: Disruption of circadian rhythm from rapid time zone changes during air travel.
+Symptoms: Fatigue, insomnia, irritability, digestive issues, difficulty concentrating.
+Treatment/Medication:
+  - Symptomatic: Melatonin 0.5–5 mg at bedtime in new time zone.
+  - Supportive: Light exposure during day, short naps (<30 min), hydration.
+Cure: Self-limiting (resolves in 1–3 days per time zone crossed).
+Precautions:
+  - Adjust sleep schedule before travel.
+  - Avoid alcohol/caffeine near bedtime.
+  - Stay active during daylight hours.
+When to see a doctor: Persistent symptoms >1 week or severe disruption.
+
+2. Altitude Sickness (Acute Mountain Sickness)
+Cause: Low oxygen at high altitudes (>8,000 ft) during mountain travel.
+Symptoms: Headache, nausea, dizziness, fatigue, shortness of breath.
+Treatment/Medication:
+  - Descent: Primary treatment; descend 1,000–2,000 ft if symptoms worsen.
+  - Medications: Acetazolamide 125 mg twice daily (prevention), ibuprofen for headache.
+  - Supportive: Hydration, rest, oxygen if available.
+Cure: Resolves with descent; preventable with acclimatization.
+Precautions:
+  - Ascend gradually (<1,000 ft/day above 8,000 ft).
+  - Avoid alcohol, sedatives; stay hydrated.
+  - Pre-travel acetazolamide if high risk.
+When to see a doctor: Severe headache, confusion, or worsening symptoms (risk of HAPE/HACE).
+
+3. Heat Exhaustion/Stroke
+Cause: Overexposure to high temperatures/humidity during travel in hot climates.
+Symptoms: Heavy sweating, weakness, nausea, headache, rapid pulse; stroke includes confusion, seizures.
+Treatment/Medication:
+  - Cooling: Move to shade, cool cloths, hydration (ORS).
+  - Severe: IV fluids, cooling measures in hospital.
+Cure: Resolves with prompt cooling; stroke is medical emergency.
+Precautions:
+  - Wear light clothing, stay hydrated (2–3 liters/day).
+  - Avoid midday sun, use sunscreen.
+  - Acclimatize gradually.
+When to see a doctor: Confusion, vomiting, or temperature >104°F.
+
+4. Sunburn
+Cause: UV radiation exposure during outdoor travel without protection.
+Symptoms: Red, painful skin, blistering, swelling, fever.
+Treatment/Medication:
+  - Topical: Aloe vera, hydrocortisone 1% cream.
+  - Oral: Ibuprofen 400 mg for pain/inflammation.
+  - Supportive: Cool baths, hydration, avoid sun.
+Cure: Self-limiting (3–7 days); severe cases may scar.
+Precautions:
+  - Use SPF 30+ sunscreen, reapply every 2 hours.
+  - Wear protective clothing, hat, sunglasses.
+  - Avoid peak sun (10 AM–4 PM).
+When to see a doctor: Blisters over large area, fever, chills.
+
+5. Deep Vein Thrombosis (DVT)
+Cause: Blood clots from prolonged immobility during long flights/travel.
+Symptoms: Leg swelling, pain, warmth, redness.
+Treatment/Medication:
+  - Anticoagulants: Enoxaparin (prophylaxis) or rivaroxaban if diagnosed.
+  - Supportive: Compression stockings, elevation.
+Cure: Treatable; prevents pulmonary embolism.
+Precautions:
+  - Move every 1–2 hours, calf exercises.
+  - Hydrate, avoid alcohol; aspirin if high risk.
+  - Compression socks for flights >4 hours.
+When to see a doctor: Sudden leg pain/swelling, shortness of breath.
+
+6. Erectile Dysfunction
+Cause: Physical (vascular, diabetes, medications), psychological (stress, anxiety), or lifestyle factors.
+Symptoms: Difficulty achieving/maintaining erection, reduced sexual desire.
+Treatment/Medication:
+  - PDE5 inhibitors: Sildenafil 50 mg as needed.
+  - Lifestyle: Exercise, quit smoking, manage stress.
+  - Therapy: Counseling for psychological causes.
+Cure: Manageable; often reversible with treatment.
+Precautions:
+  - Limit alcohol, maintain healthy weight.
+  - Discuss with partner; seek therapy if needed.
+  - Avoid unverified supplements.
+When to see a doctor: Persistent issues >3 months or sudden onset.
+
+7. Low Libido (Hypoactive Sexual Desire Disorder)
+Cause: Hormonal imbalances, stress, medications, relationship issues.
+Symptoms: Reduced interest in sexual activity, lack of fantasies.
+Treatment/Medication:
+  - Hormonal: Testosterone therapy (if low levels).
+  - Medications: Bupropion for SSRI-induced.
+  - Supportive: Therapy, lifestyle changes (exercise, sleep).
+Cure: Manageable; improves with addressing causes.
+Precautions:
+  - Communicate with partner.
+  - Balance work/life stress.
+  - Regular check-ups for underlying conditions.
+When to see a doctor: Distress or relationship impact.
+
+8. Vaginismus
+Cause: Involuntary vaginal muscle contraction, often from anxiety or trauma.
+Symptoms: Painful intercourse, difficulty with penetration.
+Treatment/Medication:
+  - Pelvic floor therapy: Dilators, relaxation exercises.
+  - Supportive: Counseling, lubricants.
+Cure: Treatable with therapy.
+Precautions:
+  - Use water-based lubricants.
+  - Gradual desensitization.
+  - Avoid forced penetration.
+When to see a doctor: Pain during sex or exams.
+
+9. Dyspareunia (Painful Intercourse)
+Cause: Infections, endometriosis, dryness, or psychological factors.
+Symptoms: Pain during/after sex, burning, or deep pelvic pain.
+Treatment/Medication:
+  - Topical: Estrogen cream for dryness.
+  - Oral: Ibuprofen for inflammation.
+  - Therapy: For underlying conditions (e.g., antibiotics for infections).
+Cure: Manageable; treat cause.
+Precautions:
+  - Foreplay for lubrication.
+  - Positions to minimize pain.
+  - Hormonal evaluation if menopausal.
+When to see a doctor: Persistent pain or bleeding.
+
+10. Premature Ejaculation
+Cause: Psychological (anxiety), biological (hypersensitivity).
+Symptoms: Ejaculation sooner than desired (<1–2 min).
+Treatment/Medication:
+  - Topical: Lidocaine spray.
+  - Oral: SSRIs (paroxetine 10–40 mg daily).
+  - Therapy: Behavioral techniques (stop-start).
+Cure: Manageable; often improves with practice.
+Precautions:
+  - Kegel exercises.
+  - Condoms to reduce sensitivity.
+  - Partner involvement.
+When to see a doctor: Distress or relationship strain.
+
+11. Hearing Loss
+Cause: Age-related (presbycusis), noise exposure, ear infections.
+Symptoms: Difficulty hearing conversations, tinnitus, muffled sounds.
+Treatment/Medication:
+  - Devices: Hearing aids.
+  - Supportive: Communication strategies, lip-reading.
+Cure: Manageable; not reversible.
+Precautions:
+  - Protect ears from loud noise (earplugs).
+  - Regular hearing tests after age 50.
+  - Manage earwax buildup.
+When to see a doctor: Sudden loss or with vertigo.
+
+12. Cataracts
+Cause: Lens clouding from aging, UV exposure, diabetes.
+Symptoms: Blurry vision, glare, faded colors.
+Treatment/Medication:
+  - Surgery: Lens replacement (phacoemulsification).
+  - Supportive: Bright lighting, anti-glare glasses.
+Cure: Curable with surgery.
+Precautions:
+  - Wear UV sunglasses.
+  - Control diabetes.
+  - Quit smoking.
+When to see a doctor: Vision affecting daily activities.
+
+13. Insomnia
+Cause: Stress, poor sleep hygiene, caffeine, medical conditions.
+Symptoms: Difficulty falling/staying asleep, daytime fatigue.
+Treatment/Medication:
+  - Behavioral: CBT-I (cognitive behavioral therapy for insomnia).
+  - Short-term: Melatonin 3 mg or zolpidem 5–10 mg.
+Cure: Manageable; improves with habits.
+Precautions:
+  - Consistent sleep schedule.
+  - Avoid screens before bed.
+  - Limit naps.
+When to see a doctor: >3 nights/week for >3 months.
+
+14. Allergies (Seasonal/Allergic Rhinitis)
+Cause: Pollen, dust, pet dander triggering immune response.
+Symptoms: Sneezing, itchy eyes/nose, congestion, fatigue.
+Treatment/Medication:
+  - Antihistamines: Loratadine 10 mg daily.
+  - Nasal: Fluticasone spray.
+  - Supportive: Avoidance, saline rinses.
+Cure: Manageable; seasonal.
+Precautions:
+  - Track pollen counts.
+  - Use air purifiers.
+  - Immunotherapy for severe cases.
+When to see a doctor: Uncontrolled symptoms or sinusitis.
+
+15. Obesity
+Cause: Caloric imbalance, sedentary lifestyle, genetics.
+Symptoms: Excess body fat (BMI >30), joint pain, fatigue.
+Treatment/Medication:
+  - Lifestyle: Diet (calorie deficit), exercise (150 min/week).
+  - Medications: Semaglutide 2.4 mg weekly (if BMI >30).
+  - Surgery: Bariatric for severe cases.
+Cure: Manageable with sustained changes.
+Precautions:
+  - Portion control, whole foods.
+  - Track BMI annually.
+  - Screen for comorbidities.
+When to see a doctor: BMI >30 or rapid weight gain.
+
+16. Stroke
+Cause: Blocked/clot in brain blood vessel (ischemic) or bleed (hemorrhagic).
+Symptoms: Sudden numbness, confusion, trouble speaking, severe headache.
+Treatment/Medication:
+  - Acute: tPA (alteplase) within 4.5 hours for ischemic.
+  - Preventive: Aspirin 81 mg daily, statins.
+Cure: Manageable; rehabilitation post-event.
+Precautions:
+  - Control BP (<130/80), cholesterol.
+  - Quit smoking, healthy diet.
+  - Recognize FAST (Face, Arm, Speech, Time).
+When to see a doctor: Any stroke symptoms—call emergency.
+
+17. High Cholesterol (Hyperlipidemia)
+Cause: Diet, genetics, inactivity, hypothyroidism.
+Symptoms: Often asymptomatic; detected via blood test.
+Treatment/Medication:
+  - Statins: Atorvastatin 10–20 mg daily.
+  - Lifestyle: Low-saturated fat diet, exercise.
+Cure: Manageable; reduces heart risk.
+Precautions:
+  - Annual lipid panel.
+  - Omega-3 rich foods.
+  - Avoid trans fats.
+When to see a doctor: LDL >130 mg/dL or family history.
+
+18. Osteoporosis
+Cause: Bone density loss from aging, menopause, low calcium.
+Symptoms: Fractures, back pain, height loss.
+Treatment/Medication:
+  - Bisphosphonates: Alendronate 70 mg weekly.
+  - Supplements: Calcium 1,200 mg + vitamin D 800 IU daily.
+Cure: Manageable; prevents fractures.
+Precautions:
+  - Weight-bearing exercise.
+  - Fall-proof home.
+  - Bone density scan after 65.
+When to see a doctor: Fracture after minor fall.
+
+19. Chronic Pain (e.g., Fibromyalgia)
+Cause: Central sensitization, trauma, genetics.
+Symptoms: Widespread pain, fatigue, sleep issues, tender points.
+Treatment/Medication:
+  - Medications: Duloxetine 30–60 mg daily, pregabalin 150–300 mg.
+  - Therapy: Exercise, CBT.
+Cure: Manageable; no cure.
+Precautions:
+  - Pace activities.
+  - Stress management.
+  - Multidisciplinary approach.
+When to see a doctor: New or worsening pain.
+
+20. Tinnitus
+Cause: Noise exposure, earwax, medications, hearing loss.
+Symptoms: Ringing/buzzing in ears, constant or intermittent.
+Treatment/Medication:
+  - Supportive: Sound therapy, hearing aids.
+  - Avoid: Ototoxic drugs (e.g., high-dose aspirin).
+Cure: Manageable; rarely resolves.
+Precautions:
+  - Ear protection in loud environments.
+  - Manage stress.
+  - Annual hearing checks.
+When to see a doctor: Sudden onset or with vertigo.
+
+1. Generalized Anxiety Disorder (GAD)
+Cause: Genetic predisposition, chronic stress, trauma, or chemical imbalances.
+Symptoms: Excessive worry, restlessness, muscle tension, fatigue, poor concentration.
+Treatment/Medication:
+  - Therapy: Cognitive Behavioral Therapy (CBT), mindfulness-based therapy.
+  - Medications: SSRIs (e.g., sertraline 50–200 mg daily), buspirone 15–30 mg daily.
+  - Supportive: Relaxation techniques (deep breathing, meditation).
+Cure: Manageable; symptoms improve with treatment.
+Precautions:
+  - Practice stress management (yoga, journaling).
+  - Avoid caffeine, alcohol, which exacerbate symptoms.
+  - Maintain regular sleep schedule.
+When to see a doctor: Persistent worry >6 months, impacting daily life.
+
+2. Panic Disorder
+Cause: Genetics, stress, or brain chemistry changes; may be triggered by travel-related stressors.
+Symptoms: Sudden panic attacks (racing heart, sweating, trembling, fear of losing control).
+Treatment/Medication:
+  - Therapy: CBT, exposure therapy for triggers.
+  - Medications: SSRIs (e.g., fluoxetine 20 mg daily), benzodiazepines (e.g., lorazepam 0.5 mg as needed, short-term).
+  - Supportive: Breathing exercises, grounding techniques.
+Cure: Manageable; attacks reducible with treatment.
+Precautions:
+  - Identify and avoid triggers (e.g., crowded airports).
+  - Carry rescue medication if prescribed.
+  - Practice mindfulness daily.
+When to see a doctor: Frequent attacks or fear of attacks affecting travel or routine.
+
+3. Social Anxiety Disorder
+Cause: Fear of judgment, genetics, or past social trauma; worsened in new social settings (e.g., travel).
+Symptoms: Intense fear of social situations, blushing, sweating, avoiding interactions.
+Treatment/Medication:
+  - Therapy: CBT, social skills training.
+  - Medications: SSRIs (e.g., paroxetine 20–40 mg daily), beta-blockers (e.g., propranolol for performance anxiety).
+  - Supportive: Gradual exposure to social settings.
+Cure: Manageable; significant improvement possible.
+Precautions:
+  - Practice assertiveness in safe environments.
+  - Limit caffeine, which heightens anxiety.
+  - Rehearse social scenarios before travel.
+When to see a doctor: Avoidance of social events or work.
+
+4. Post-Traumatic Stress Disorder (PTSD)
+Cause: Trauma (e.g., assault, accident, travel-related incidents like robbery), brain chemistry.
+Symptoms: Flashbacks, nightmares, hypervigilance, avoidance of triggers.
+Treatment/Medication:
+  - Therapy: Trauma-focused CBT, Eye Movement Desensitization and Reprocessing (EMDR).
+  - Medications: SSRIs (e.g., sertraline 50–200 mg daily), prazosin for nightmares.
+  - Supportive: Support groups, stress reduction.
+Cure: Manageable; symptoms can significantly decrease.
+Precautions:
+  - Avoid trauma triggers (e.g., crowded places during travel).
+  - Develop a safety plan for flashbacks.
+  - Seek therapy early post-trauma.
+When to see a doctor: Intrusive memories or severe distress >1 month.
+
+5. Obsessive-Compulsive Disorder (OCD)
+Cause: Genetic, neurological, or environmental; stress (e.g., travel disruptions) may worsen.
+Symptoms: Intrusive thoughts (obsessions), repetitive behaviors (compulsions, e.g., checking).
+Treatment/Medication:
+  - Therapy: Exposure and Response Prevention (ERP), CBT.
+  - Medications: SSRIs (e.g., fluoxetine 40–80 mg daily), clomipramine 25–100 mg daily.
+  - Supportive: Mindfulness, stress management.
+Cure: Manageable; symptoms reducible with treatment.
+Precautions:
+  - Maintain routine to reduce compulsions.
+  - Avoid alcohol, which may increase obsessive thoughts.
+  - Plan travel to minimize disruptions.
+When to see a doctor: Compulsions disrupting daily life or travel.
+
+6. Adjustment Disorder
+Cause: Stressful life events (e.g., job loss, relationship issues, travel mishaps).
+Symptoms: Sadness, anxiety, difficulty coping, sleep issues within 3 months of stressor.
+Treatment/Medication:
+  - Therapy: Supportive psychotherapy, stress management.
+  - Medications: Short-term anxiolytics (e.g., lorazepam 0.5 mg) if severe.
+  - Supportive: Social support, problem-solving skills.
+Cure: Resolves with stressor resolution; therapy aids coping.
+Precautions:
+  - Build resilience through social networks.
+  - Prepare for travel changes (e.g., backup plans).
+  - Practice self-care during transitions.
+When to see a doctor: Symptoms >6 months or severe distress.
+
+7. Bipolar Disorder
+Cause: Genetic, brain chemistry imbalances; stress (e.g., travel or sexual health issues) may trigger.
+Symptoms: Manic episodes (high energy, impulsivity), depressive episodes (low mood, fatigue).
+Treatment/Medication:
+  - Medications: Mood stabilizers (e.g., lithium 600–1200 mg daily), antipsychotics (e.g., olanzapine).
+  - Therapy: CBT, psychoeducation.
+  - Supportive: Routine sleep, stress reduction.
+Cure: Manageable; lifelong treatment often needed.
+Precautions:
+  - Maintain consistent sleep, even during travel.
+  - Avoid stimulants (caffeine, drugs).
+  - Monitor mood changes closely.
+When to see a doctor: Extreme mood swings or suicidal thoughts.
+
+8. Seasonal Affective Disorder (SAD)
+Cause: Reduced daylight exposure, often in winter; travel to low-light regions may trigger.
+Symptoms: Depression, low energy, oversleeping, carbohydrate cravings.
+Treatment/Medication:
+  - Therapy: Light therapy (10,000 lux, 30 min daily), CBT.
+  - Medications: SSRIs (e.g., bupropion XL 150–300 mg daily).
+  - Supportive: Outdoor activity, vitamin D supplements.
+Cure: Manageable; improves with season change or treatment.
+Precautions:
+  - Maximize daylight exposure during travel.
+  - Maintain exercise routine.
+  - Monitor vitamin D levels.
+When to see a doctor: Persistent low mood or suicidal ideation.
+
+9. Body Dysmorphic Disorder (BDD)
+Cause: Obsessive focus on perceived physical flaws; may relate to sexual self-image.
+Symptoms: Preoccupation with appearance, repetitive behaviors (e.g., mirror checking).
+Treatment/Medication:
+  - Therapy: CBT, focusing on perception distortion.
+  - Medications: SSRIs (e.g., fluoxetine 20–80 mg daily).
+  - Supportive: Support groups, self-esteem work.
+Cure: Manageable; symptoms reducible with treatment.
+Precautions:
+  - Avoid social media comparison.
+  - Seek therapy before cosmetic procedures.
+  - Address sexual health concerns openly.
+When to see a doctor: Distress over appearance or social withdrawal.
+
+10. Eating Disorders (Anorexia Nervosa)
+Cause: Psychological, genetic, societal; travel or sexual stress may exacerbate.
+Symptoms: Severe weight loss, fear of gaining weight, distorted body image.
+Treatment/Medication:
+  - Therapy: CBT, family-based therapy (FBT).
+  - Medications: SSRIs for comorbid anxiety/depression.
+  - Supportive: Nutritional counseling, hospitalization if severe.
+Cure: Manageable; recovery possible with intensive treatment.
+Precautions:
+  - Avoid diet culture triggers.
+  - Maintain structured eating during travel.
+  - Monitor for relapse signs.
+When to see a doctor: Rapid weight loss, amenorrhea, or fainting.
+
+11. Bulimia Nervosa
+Cause: Psychological, genetic; stress from travel or sexual issues may trigger binges.
+Symptoms: Binge eating, purging (vomiting, laxatives), guilt, tooth erosion.
+Treatment/Medication:
+  - Therapy: CBT, interpersonal therapy.
+  - Medications: Fluoxetine 60 mg daily for binge reduction.
+  - Supportive: Dental care, nutritional support.
+Cure: Manageable; recovery possible with treatment.
+Precautions:
+  - Avoid fasting or restrictive diets.
+  - Structured meals during travel.
+  - Seek therapy for emotional triggers.
+When to see a doctor: Frequent purging, electrolyte imbalance.
+
+12. Binge-Eating Disorder
+Cause: Emotional distress, genetics; travel disruptions may worsen.
+Symptoms: Recurrent binge eating without purging, guilt, weight gain.
+Treatment/Medication:
+  - Therapy: CBT, dialectical behavior therapy (DBT).
+  - Medications: Lisdexamfetamine 30–70 mg daily.
+  - Supportive: Mindful eating, support groups.
+Cure: Manageable; recovery possible.
+Precautions:
+  - Avoid emotional eating triggers.
+  - Plan meals during travel.
+  - Regular emotional check-ins.
+When to see a doctor: Uncontrolled binges or distress.
+
+13. Agoraphobia
+Cause: Fear of situations where escape is difficult (e.g., crowded travel hubs).
+Symptoms: Anxiety in public places, avoidance, panic attacks.
+Treatment/Medication:
+  - Therapy: CBT, exposure therapy.
+  - Medications: SSRIs (e.g., escitalopram 10–20 mg daily).
+  - Supportive: Gradual exposure, travel companion support.
+Cure: Manageable; significant improvement possible.
+Precautions:
+  - Plan travel with safe spaces (e.g., quiet airport areas).
+  - Practice relaxation techniques.
+  - Avoid isolating behaviors.
+When to see a doctor: Inability to leave home or travel.
+
+14. Specific Phobia (e.g., Fear of Flying)
+Cause: Conditioned fear response, often travel-related (e.g., flying, heights).
+Symptoms: Intense fear, sweating, trembling in specific situations.
+Treatment/Medication:
+  - Therapy: Exposure therapy, CBT.
+  - Medications: Short-term benzodiazepines (e.g., alprazolam 0.25 mg) for flights.
+  - Supportive: Virtual reality exposure, relaxation.
+Cure: Manageable; often improvable.
+Precautions:
+  - Gradual exposure to fear (e.g., airport visits).
+  - Avoid caffeine before travel.
+  - Use distraction (music, movies).
+When to see a doctor: Phobia limits travel or daily life.
+
+15. Trichotillomania (Hair-Pulling Disorder)
+Cause: Stress, genetics; may worsen with travel or sexual stress.
+Symptoms: Compulsive hair pulling, bald patches, distress.
+Treatment/Medication:
+  - Therapy: Habit reversal training, CBT.
+  - Medications: SSRIs or N-acetylcysteine 1200–2400 mg daily.
+  - Supportive: Stress reduction, support groups.
+Cure: Manageable; symptoms reducible.
+Precautions:
+  - Identify triggers (e.g., stress in new environments).
+  - Use fidget tools to distract hands.
+  - Maintain routine during travel.
+When to see a doctor: Visible hair loss or shame.
+
+16. Hoarding Disorder
+Cause: Emotional attachment to items, anxiety; travel may disrupt routines.
+Symptoms: Excessive saving, cluttered living spaces, distress discarding.
+Treatment/Medication:
+  - Therapy: CBT, motivational interviewing.
+  - Medications: SSRIs for comorbid anxiety/depression.
+  - Supportive: Professional organizer support.
+Cure: Manageable; long-term therapy needed.
+Precautions:
+  - Avoid accumulating during travel.
+  - Set decluttering goals.
+  - Seek family support.
+When to see a doctor: Clutter impacts safety or relationships.
+
+17. Dissociative Identity Disorder (DID)
+Cause: Severe childhood trauma, dissociation; stress (e.g., travel) may trigger switches.
+Symptoms: Multiple identities, memory gaps, anxiety.
+Treatment/Medication:
+  - Therapy: Trauma-focused therapy, integration work.
+  - Medications: For comorbid anxiety/depression (e.g., SSRIs).
+  - Supportive: Grounding techniques, safe spaces.
+Cure: Manageable; integration possible for some.
+Precautions:
+  - Create stable travel routines.
+  - Carry grounding objects (e.g., familiar item).
+  - Inform travel companions of condition.
+When to see a doctor: Frequent dissociation or memory loss.
+
+18. Borderline Personality Disorder (BPD)
+Cause: Genetics, trauma; relationship or travel stress may worsen.
+Symptoms: Emotional instability, impulsivity, fear of abandonment, self-harm.
+Treatment/Medication:
+  - Therapy: Dialectical Behavior Therapy (DBT), schema therapy.
+  - Medications: Mood stabilizers (e.g., lamotrigine 25–200 mg daily).
+  - Supportive: Skills training, crisis plans.
+Cure: Manageable; significant improvement possible.
+Precautions:
+  - Develop coping skills for travel stress.
+  - Maintain support network.
+  - Avoid impulsive decisions.
+When to see a doctor: Self-harm or suicidal thoughts.
+
+19. Attention-Deficit/Hyperactivity Disorder (ADHD)
+Cause: Genetic, neurological; travel disruptions may worsen focus.
+Symptoms: Inattention, impulsivity, hyperactivity, disorganization.
+Treatment/Medication:
+  - Medications: Stimulants (methylphenidate 10–60 mg daily), non-stimulants (atomoxetine 40–80 mg daily).
+  - Therapy: Behavioral therapy, organizational skills training.
+  - Supportive: Routine, timers for travel tasks.
+Cure: Manageable; lifelong condition.
+Precautions:
+  - Use planners for travel itineraries.
+  - Minimize distractions (e.g., noise-canceling headphones).
+  - Regular breaks during activities.
+When to see a doctor: Difficulty functioning at work or travel.
+
+20. Postpartum Depression
+Cause: Hormonal changes, stress post-childbirth; travel or sexual issues may exacerbate.
+Symptoms: Severe sadness, fatigue, disinterest in baby, guilt.
+Treatment/Medication:
+  - Therapy: CBT, interpersonal therapy.
+  - Medications: SSRIs (e.g., sertraline 50–100 mg daily, safe for breastfeeding).
+  - Supportive: Partner support, rest.
+Cure: Manageable; often resolves with treatment.
+Precautions:
+  - Seek support before travel post-delivery.
+  - Prioritize sleep, self-care.
+  - Screen for symptoms post-birth.
+When to see a doctor: Thoughts of harming self or baby.
+
+
+1. Neonatal Jaundice (Physiological)
+Cause: Immature liver function causing bilirubin buildup; not related to hepatitis.
+Symptoms: Yellowing of skin/eyes, lethargy, poor feeding.
+Treatment/Medication:
+  - Phototherapy: Blue light to break down bilirubin.
+  - Supportive: Frequent feeding (breast milk/formula) to promote excretion.
+  - Severe: Exchange transfusion if bilirubin >25 mg/dL.
+Cure: Self-limiting (resolves in 1–2 weeks); treatable if severe.
+Precautions:
+  - Monitor skin color in natural light.
+  - Ensure 8–12 feeds/day to promote bowel movements.
+  - Avoid dehydration in newborns.
+When to see a doctor: Jaundice within 24 hours, spreading to arms/legs, or poor feeding.
+
+2. Respiratory Distress Syndrome (RDS)
+Cause: Surfactant deficiency in preterm infants (<37 weeks).
+Symptoms: Rapid breathing, grunting, chest retractions, cyanosis (bluish skin).
+Treatment/Medication:
+  - Surfactant therapy: Endotracheal surfactant (e.g., poractant alfa).
+  - Respiratory support: CPAP or mechanical ventilation.
+  - Supportive: Oxygen therapy, IV fluids.
+Cure: Treatable; recovery depends on prematurity and treatment.
+Precautions:
+  - Antenatal steroids (betamethasone) for preterm labor risk.
+  - Monitor preterm infants closely post-birth.
+  - Ensure NICU access for preterm deliveries.
+When to see a doctor: Any breathing difficulty or blue tint in newborn.
+
+3. Neonatal Sepsis
+Cause: Bacterial infection (e.g., Group B Streptococcus, E. coli) acquired during birth or postnatally.
+Symptoms: Fever, lethargy, poor feeding, respiratory distress, irritability.
+Treatment/Medication:
+  - Antibiotics: Ampicillin 100 mg/kg IV + gentamicin 4 mg/kg IV for 7–14 days.
+  - Supportive: IV fluids, oxygen if needed.
+Cure: Curable with early antibiotics; delays risk complications.
+Precautions:
+  - Maternal GBS screening and intrapartum antibiotics.
+  - Maintain sterile delivery environment.
+  - Monitor newborn for fever or lethargy.
+When to see a doctor: Fever >100.4°F, poor feeding, or lethargy in first month.
+
+4. Congenital Hypothyroidism
+Cause: Thyroid gland underdevelopment or maternal iodine deficiency.
+Symptoms: Prolonged jaundice, constipation, poor feeding, large tongue, lethargy.
+Treatment/Medication:
+  - Hormone replacement: Levothyroxine 10–15 mcg/kg/day orally.
+  - Supportive: Regular thyroid function monitoring.
+Cure: Manageable with lifelong medication; prevents developmental delays.
+Precautions:
+  - Newborn screening (heel prick test) at 2–5 days.
+  - Ensure maternal iodine intake during pregnancy.
+  - Administer medication consistently.
+When to see a doctor: Missed screening or symptoms like poor growth.
+
+5. Patent Ductus Arteriosus (PDA)
+Cause: Failure of ductus arteriosus to close after birth, common in preterm infants.
+Symptoms: Heart murmur, fast breathing, poor weight gain, feeding difficulties.
+Treatment/Medication:
+  - Medications: Ibuprofen or indomethacin (IV) to close duct.
+  - Surgery: Ligation if medical therapy fails.
+  - Supportive: Oxygen, fluid management.
+Cure: Curable with treatment; spontaneous closure possible in term infants.
+Precautions:
+  - Monitor preterm infants for heart issues.
+  - Ensure echocardiogram if murmur detected.
+  - Support breastfeeding to aid growth.
+When to see a doctor: Breathing issues or feeding problems.
+
+6. Necrotizing Enterocolitis (NEC)
+Cause: Intestinal inflammation, primarily in preterm infants, linked to feeding or infection.
+Symptoms: Bloody stools, abdominal distension, vomiting, lethargy.
+Treatment/Medication:
+  - Supportive: Stop oral feeds, IV fluids, antibiotics (e.g., vancomycin + piperacillin).
+  - Surgery: For intestinal perforation or severe cases.
+Cure: Treatable; recovery depends on severity.
+Precautions:
+  - Gradual introduction of feeds in preterm infants.
+  - Breast milk preferred over formula.
+  - Monitor for feeding intolerance.
+When to see a doctor: Abdominal swelling, bloody stools, or vomiting.
+
+7. Meconium Aspiration Syndrome
+Cause: Inhalation of meconium-stained amniotic fluid during birth.
+Symptoms: Respiratory distress, cyanosis, barrel-shaped chest.
+Treatment/Medication:
+  - Respiratory support: Oxygen, CPAP, or ventilation.
+  - Antibiotics: If infection suspected (e.g., ampicillin).
+  - Supportive: Suctioning at birth, NICU care.
+Cure: Treatable; recovery varies with severity.
+Precautions:
+  - Monitor fetal distress during labor.
+  - Avoid aggressive delivery maneuvers.
+  - Ensure skilled neonatal team at birth.
+When to see a doctor: Breathing difficulty or blue skin post-birth.
+
+8. Hypoglycemia in Newborns
+Cause: Low blood sugar from maternal diabetes, prematurity, or delayed feeding.
+Symptoms: Jitteriness, lethargy, poor feeding, seizures.
+Treatment/Medication:
+  - Feeding: Frequent breast milk/formula feeds.
+  - IV glucose: Dextrose 10% for severe cases.
+  - Supportive: Monitor blood glucose levels.
+Cure: Curable with prompt treatment; prevents brain damage.
+Precautions:
+  - Early and frequent feeding post-birth.
+  - Screen infants of diabetic mothers.
+  - Monitor preterm or low-birth-weight infants.
+When to see a doctor: Seizures, lethargy, or poor feeding.
+
+9. Transient Tachypnea of the Newborn (TTN)
+Cause: Delayed lung fluid clearance post-birth, often in C-section or late preterm infants.
+Symptoms: Rapid breathing, nasal flaring, mild cyanosis.
+Treatment/Medication:
+  - Supportive: Oxygen therapy, nasal cannula.
+  - Feeding: Continue breast milk/formula as tolerated.
+Cure: Self-limiting (resolves in 1–3 days).
+Precautions:
+  - Monitor respiratory rate post-birth.
+  - Encourage vaginal delivery when safe.
+  - Ensure warm, humidified environment.
+When to see a doctor: Persistent fast breathing >48 hours or worsening.
+
+10. Neonatal Abstinence Syndrome (NAS)
+Cause: Withdrawal from maternal drug use (e.g., opioids) during pregnancy.
+Symptoms: Tremors, irritability, poor feeding, seizures, diarrhea.
+Treatment/Medication:
+  - Medications: Morphine or methadone (tapered doses) for severe withdrawal.
+  - Supportive: Swaddling, low-stimulation environment, frequent feeds.
+Cure: Treatable; recovery depends on drug exposure.
+Precautions:
+  - Maternal drug screening during pregnancy.
+  - Breastfeeding if mother is stable in treatment.
+  - Monitor for withdrawal signs post-birth.
+When to see a doctor: Excessive crying, seizures, or poor weight gain.
+
+11. Congenital Diaphragmatic Hernia (CDH)
+Cause: Defect in diaphragm allowing abdominal organs into chest, impairing lung development.
+Symptoms: Severe respiratory distress, cyanosis, scaphoid abdomen.
+Treatment/Medication:
+  - Surgery: Repair of diaphragmatic defect post-stabilization.
+  - Supportive: Mechanical ventilation, ECMO if severe.
+Cure: Treatable with surgery; outcomes vary with lung development.
+Precautions:
+  - Prenatal ultrasound to detect defect.
+  - Deliver at tertiary center with NICU.
+  - Avoid early feeding until stabilized.
+When to see a doctor: Breathing difficulty at birth or prenatal diagnosis.
+
+12. Retinopathy of Prematurity (ROP)
+Cause: Abnormal retinal blood vessel growth in preterm infants (<32 weeks).
+Symptoms: Often asymptomatic; detected via eye exam, may lead to vision loss.
+Treatment/Medication:
+  - Laser therapy or cryotherapy for severe cases.
+  - Anti-VEGF injections (e.g., bevacizumab) in some cases.
+  - Supportive: Regular eye exams for preterm infants.
+Cure: Treatable; prevents blindness if caught early.
+Precautions:
+  - Screen preterm infants at 4–6 weeks post-birth.
+  - Control oxygen therapy in NICU.
+  - Monitor vision development.
+When to see a doctor: Missed ROP screening or vision concerns.
+
+13. Intraventricular Hemorrhage (IVH)
+Cause: Bleeding in brain ventricles, common in preterm infants (<32 weeks).
+Symptoms: Apnea, lethargy, seizures, bulging fontanelle.
+Treatment/Medication:
+  - Supportive: NICU monitoring, manage intracranial pressure.
+  - Medications: Anticonvulsants (e.g., phenobarbital) for seizures.
+Cure: Treatable; long-term outcomes vary with severity.
+Precautions:
+  - Antenatal steroids for preterm labor.
+  - Gentle handling of preterm infants.
+  - Monitor head circumference.
+When to see a doctor: Seizures, lethargy, or abnormal movements.
+
+14. Hyperbilirubinemia (Pathological)
+Cause: Excessive bilirubin from hemolysis, infections, or metabolic issues (not physiological jaundice).
+Symptoms: Rapid jaundice onset (<24 hours), lethargy, poor feeding.
+Treatment/Medication:
+  - Phototherapy: Intensive blue light therapy.
+  - Exchange transfusion: For severe cases (bilirubin >30 mg/dL).
+  - Supportive: Treat underlying cause (e.g., antibiotics for sepsis).
+Cure: Treatable; prevents kernicterus if addressed early.
+Precautions:
+  - Newborn screening for blood type incompatibility.
+  - Monitor jaundice progression.
+  - Ensure early feeding to reduce bilirubin.
+When to see a doctor: Jaundice in first 24 hours or with neurological symptoms.
+
+15. Neonatal Hypocalcemia
+Cause: Low calcium levels from prematurity, maternal diabetes, or hypoparathyroidism.
+Symptoms: Jitteriness, seizures, irritability, poor feeding.
+Treatment/Medication:
+  - Calcium supplementation: IV calcium gluconate 10% for acute cases.
+  - Supportive: Oral calcium, vitamin D if needed.
+Cure: Curable with treatment; addresses underlying cause.
+Precautions:
+  - Monitor infants of diabetic mothers.
+  - Ensure adequate vitamin D in preterm infants.
+  - Screen for calcium levels if symptomatic.
+When to see a doctor: Seizures or persistent tremors.
+
+16. Persistent Pulmonary Hypertension of the Newborn (PPHN)
+Cause: Failure of pulmonary vascular relaxation post-birth, often with meconium aspiration.
+Symptoms: Severe cyanosis, respiratory distress, low oxygen saturation.
+Treatment/Medication:
+  - Supportive: Nitric oxide inhalation, ECMO if severe.
+  - Medications: Sildenafil for pulmonary vasodilation.
+Cure: Treatable; outcomes depend on cause and response.
+Precautions:
+  - Monitor fetal distress during labor.
+  - Ensure advanced NICU care at delivery.
+  - Avoid hypoxia during birth.
+When to see a doctor: Blue skin or breathing difficulty at birth.
+
+17. Neonatal Polycythemia
+Cause: Excess red blood cells, often from placental transfusion or hypoxia.
+Symptoms: Ruddy complexion, lethargy, poor feeding, respiratory distress.
+Treatment/Medication:
+  - Supportive: Partial exchange transfusion for hematocrit >65%.
+  - Hydration: IV fluids to reduce viscosity.
+Cure: Treatable; resolves with intervention.
+Precautions:
+  - Monitor infants with delayed cord clamping.
+  - Avoid dehydration in newborns.
+  - Screen high-risk infants (e.g., small for gestational age).
+When to see a doctor: Cyanosis, lethargy, or feeding issues.
+
+18. Apnea of Prematurity
+Cause: Immature respiratory control in preterm infants (<34 weeks).
+Symptoms: Pauses in breathing >20 seconds, bradycardia, cyanosis.
+Treatment/Medication:
+  - Medications: Caffeine citrate 20 mg/kg loading dose, then 5–10 mg/kg daily.
+  - Supportive: CPAP, nasal oxygen, monitor in NICU.
+Cure: Resolves as infant matures (by 36–40 weeks post-conception).
+Precautions:
+  - Monitor preterm infants for breathing pauses.
+  - Maintain warm, stable environment.
+  - Ensure NICU care for preterm births.
+When to see a doctor: Frequent apneas or cyanosis.
+
+19. Congenital Adrenal Hyperplasia (CAH)
+Cause: Genetic enzyme defect (e.g., 21-hydroxylase deficiency) affecting cortisol production.
+Symptoms: Ambiguous genitalia (females), vomiting, dehydration, salt-wasting crisis.
+Treatment/Medication:
+  - Hormones: Hydrocortisone 10–20 mg/m²/day, fludrocortisone for salt loss.
+  - Supportive: IV fluids, electrolytes in crises.
+Cure: Manageable with lifelong treatment.
+Precautions:
+  - Newborn screening for CAH.
+  - Monitor for adrenal crises during illness.
+  - Genetic counseling for parents.
+When to see a doctor: Vomiting, dehydration, or genital abnormalities.
+
+20. Gastroschisis
+Cause: Congenital abdominal wall defect exposing intestines.
+Symptoms: Intestines outside abdomen at birth, poor feeding, infection risk.
+Treatment/Medication:
+  - Surgery: Primary or staged closure of defect.
+  - Supportive: IV nutrition (TPN), antibiotics for infection risk.
+Cure: Curable with surgery; long-term bowel issues possible.
+Precautions:
+  - Prenatal ultrasound for early detection.
+  - Deliver at tertiary center with pediatric surgery.
+  - Protect exposed intestines at birth (sterile wrap).
+When to see a doctor: Prenatal diagnosis or visible defect at birth.
+
+
+21 Snake Bite
+Cause: Bite from venomous snakes (e.g., cobra, viper, krait) or non-venomous snakes.
+Symptoms: Pain, swelling, redness at bite site; venomous bites may cause dizziness, nausea, vomiting, difficulty breathing, blurred vision, or paralysis.
+First Aid:
+
+Stay calm, keep the bitten person still to slow venom spread.
+Lay them down with the bitten area below heart level.
+Remove tight clothing, jewelry near bite.
+Clean bite with soap and water; do NOT cut or suck wound.
+Immobilize bitten limb with a splint or cloth; keep it still.
+Do NOT apply ice, tourniquet, or home remedies (e.g., herbs, oils).
+Get to a hospital immediately (within 1–2 hours if possible).
+
+Treatment/Medication:
+
+Hospital Care: Anti-snake venom (ASV) given by doctor after identifying snake type (if possible).
+Supportive: Pain relief (paracetamol, avoid aspirin/ibuprofen), IV fluids, oxygen if breathing is hard.
+Severe Cases: Ventilator for breathing failure, dialysis for kidney damage.
+
+Cure: Curable with timely ASV; delays can cause death or disability.
+Precautions:
+
+Wear shoes, long pants in snake-prone areas (fields, forests).
+Avoid tall grass, piles of leaves, or dark areas.
+Use a stick to check ground before stepping.
+Do not handle dead snakes or provoke live ones.
+
+When to See a Doctor: Immediately after bite, even if no symptoms; venom effects may start late.

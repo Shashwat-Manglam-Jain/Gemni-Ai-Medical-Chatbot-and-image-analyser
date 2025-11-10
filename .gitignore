@@ -1,0 +1,61 @@
+# ---------------------------
+# Python
+# ---------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.env/
+.venv/
+ENV/
+env/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# ---------------------------
+# Environment / Secrets
+# ---------------------------
+.env               # Environment variables (like GEMINI_API_KEY)
+secrets/           # Folder if using Docker secrets
+*.key
+*.pem
+*.json
+config.json
+credentials/
+*.env.local
+.env.production
+.env.development
+
+# ---------------------------
+# Build & Packaging
+# ---------------------------
+build/
+dist/
+*.egg-info/
+*.spec
+*.log
+
+# ---------------------------
+# OS Specific
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# Docker
+# ---------------------------
+# Ignore local build context stuff or volumes
+*.pid
+*.tar
+docker-compose.override.yml
